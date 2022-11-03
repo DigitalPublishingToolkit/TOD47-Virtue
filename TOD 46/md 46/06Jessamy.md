@@ -40,7 +40,7 @@ at the selfie stick—in fact, its use was encouraged on the day our
 researcher visited. The co-hashtag analysis wasn’t useful from an STS
 perspective; we had gathered the data from the Christmas/New Year
 period, which meant a lot of people had received selfie sticks as gifts
-and were tweeting photos along with hashtags^⁠^ such as \#love,
+and were tweeting photos along with hashtags such as \#love,
 \#family, \#NYE, and \#xmas.[^06Jessamy_1]
 
 ‘Love?!’ remarked one of the researchers, ‘we can’t do anything useful
@@ -59,7 +59,7 @@ For many students, it is the first time they have done research design
 with digital methods from a feminist STS standpoint. I make a point that
 digital methods projects such as these are inherently inductive. While
 the researcher can control the search queries they make to the
-application programming interface (API)^⁠^[^06Jessamy_2], they are largely at the
+application programming interface (API)[^06Jessamy_2], they are largely at the
 mercy of the what the API serves up based on those queries and what any
 given user is tweeting about on that day with those hashtags. For the
 purposes of the students’ projects, failure lies in a lack of working
@@ -102,7 +102,7 @@ in the first place. Some contemporary STS-based examples of breaching
 experiments come from Woolgar and Neyland, involving researchers taking
 more than 100 millilitres of liquid through airport security to try to
 uncover the reasoning for the rule and how it is enforced.[^06Jessamy_3] Breaching
-experiments were initially devised by Harold Garfinkel^⁠^, who rather
+experiments were initially devised by Harold Garfinkel, who rather
 tellingly made his students do the research work that laid the
 foundations for this method.[^06Jessamy_4]
 
@@ -138,7 +138,7 @@ an experience of learning how to use the selfie stick.
 I tell these stories to also make failure relatable. It happens to many
 of us, and yet we are not encouraged to publish about it, so as to
 falsely emphasize our infallibility as researchers. Twenty-five years
-after Haraway^⁠6^ wrote about the modest witness, we as a research
+after Haraway wrote about the modest witness, we as a research
 community still do not acknowledge mess, failure, and conflicting
 standpoints in our outputs.[^06Jessamy_6] Only the sanitized, wrinkles-ironed-out
 version of research activities and their analysis is worthy to be told
@@ -148,7 +148,7 @@ government.
 My PhD almost failed, and it resembles little of the selfie stick
 descriptions contained in the last few hundred words. It pivoted to
 become a digital ethnography of how mundane failure is demonstrated on
-digital and social media.^⁠^[^06Jessamy_7] The failure of the selfie stick still
+digital and social media.[^06Jessamy_7] The failure of the selfie stick still
 makes an appearance as a chapter that reflects on methodological
 failures of researching disruption. If your entire PhD thesis deals with
 how commuters, public institutions, cybersecurity experts, and
@@ -160,7 +160,7 @@ But there has also been an urge in recent years to ensure that failure
 be generative, as some form of consolation prize for things not going to
 plan. Is that a neoliberal way of looking at failure? Everything must
 have value squeezed out of it, even our screw ups. As the British artist
-David Shrigley (2021)^⁠^ so astutely put on a poster: ‘When life gives
+David Shrigley (2021) so astutely put on a poster: ‘When life gives
 you a lemon/ you must eat the lemon/ all of it /including the skin’.[^06Jessamy_8]
 Sometimes we as researchers are in the position of eating the skins of
 our research lemons.
@@ -171,7 +171,7 @@ urged to capitalize on it? In short: how do we let failure be what it
 needs to be within our research?
 
 Some colleagues of mine have run workshops that encourage participants
-to ‘talk to texts that they’re struggling to write.’^⁠9^ They consider
+to ‘talk to texts that they’re struggling to write.’ They consider
 the troubling parts of their work in the ‘monster writing’ process, but
 in framing these troubles as monsters, the troubles are rendered
 addressable. Part of the exercise involves addressing the text and

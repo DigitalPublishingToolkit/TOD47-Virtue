@@ -235,7 +235,7 @@ creative merit of boredom, often just dismissing it as a failure of
 doing. We are, after all, culturally conditioned to think of boredom as
 a negative condition that is for the underachievers, the losers, and the
 inert. We are conditioned to thin of boredom *as the opposite of
-happiness. *
+happiness.*
 
 Yet as philosopher Elpidorou pointed out, it may be a very good thing to
 be bored: ‘In the absence of boredom, one would remain trapped in

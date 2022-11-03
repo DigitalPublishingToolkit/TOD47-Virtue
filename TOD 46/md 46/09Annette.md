@@ -219,8 +219,7 @@ discursive reframing is also an effort to correct the imbalance caused
 by the persistent negative framing that occurs when something is
 labelled as a failure.
 
-![](media/image1.png){width="3.0998479877515313in"
-height="2.2730719597550304in"}Building from the more abstract manifesto
+Building from the more abstract manifesto
 of Sousa and Clark[^09Annette_14], the three principles below seek to build a
 methodological vocabulary and heuristic as a guide for researchers,
 especially those who seek to resist the negative valence of failure or
@@ -230,15 +229,18 @@ methods, or explicate instances of failure, but describe some
 epistemologically-driven, generative questions that emerge at various
 points throughout a study.
 
+![](media/image1.png){width="3.0998479877515313in"
+height="2.2730719597550304in"}
+
 Figure 5.1: The iterative inquiry spiral. Source: Annette Markham. Used
 with permission.
 
-## 
+
 
 ## Failures as Outcomes: Identifying Critical Junctures in Iterative Spirals of Inquiry
 
 Based on a previous model of reflexive practice that emphasizes inquiry
-as iterative spirals,[^09Annette_15]^,^[^09Annette_16] any decision that leads to action
+as iterative spirals,[^09Annette_15],[^09Annette_16] any decision that leads to action
 constitutes a critical juncture where one ventures into experimental
 territory, a sort of venturing forth into the unknown to see what
 happens. The outcome of this experiment can be considered another

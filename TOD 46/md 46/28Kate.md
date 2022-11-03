@@ -453,7 +453,7 @@ Simon, Herbert A. ‘The Science of Design: Creating the Artificial’,
 [^28Kate_3]: Chris Perkins and Kate McLean, ‘Smell walking and mapping’, in
     Sarah M. Hall and Helen Holmes (eds) *Mundane Methods*, Manchester:
     Manchester University Press, 2020, pp. 157–173.
-    https://doi.org/10.1016/j.emospa.2022.100905
+    https://doi.org/10.1016/j.emospa.2022.100905.
 
 [^28Kate_4]: Trygg Engen, *Odor Sensation and Memory*, New York: Greenwood
     Publishing Group, 1991.
@@ -481,7 +481,7 @@ Simon, Herbert A. ‘The Science of Design: Creating the Artificial’,
     https://www.designcouncil.org.uk/news-opinion/what-framework-innovation-design-councils-evolved-double-diamond.
 
 [^28Kate_9]: The Interaction Design Foundation, ‘Design Failures’,
-    https://www.interaction-design.org/literature/article/design-failures
+    https://www.interaction-design.org/literature/article/design-failures.
 
 [^28Kate_10]: Donald A. Norman, *The Design of Everyday Things, Revised and
     Expanded Edition,* 2nd revised and expanded ed, Cambridge: MIT
@@ -496,11 +496,11 @@ Simon, Herbert A. ‘The Science of Design: Creating the Artificial’,
 
 [^28Kate_13]: NYC NYC Visitor Guide, ‘Snug Harbor Cultural Center & Botanical
     Garden’, *NYC Go*,
-    https://www.nycgo.com/museums-galleries/snug-harbor-cultural-center-botanical-garden
+    https://www.nycgo.com/museums-galleries/snug-harbor-cultural-center-botanical-garden.
 
 [^28Kate_14]: Mags Adams, and Kye Askins, ‘Sensewalking: Sensory Walking
     Methods for Social Scientists’, IAPS, 2008.
-    http://www.iaps-association.org/sensewalking-sensory-walking-methods-for-social-scientists/
+    http://www.iaps-association.org/sensewalking-sensory-walking-methods-for-social-scientists/.
 
 [^28Kate_15]: McLean, ‘Nose-First’, 90.
 

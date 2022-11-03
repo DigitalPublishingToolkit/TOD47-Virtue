@@ -24,7 +24,8 @@ Rights: CC BY-NC 4.0
 ## Introduction
 
 *Failurists: Methodologies, Motivations and Meanings\
-*Sybille Lammes, Kat Jungnickel, Larissa Hjorth and Jen Rae
+*
+Sybille Lammes, Kat Jungnickel, Larissa Hjorth and Jen Rae
 
 ## Section I: Digitality, Archives, and Design
 

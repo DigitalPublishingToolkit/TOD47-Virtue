@@ -338,7 +338,7 @@ Architecture’s Endgame,’ *Architectural Design* 83.1 (2013): 98-105.
 [^20Nanna_13]: Arjun Appadurai and Neta Alexander, *Failure*, Cambridge: Polity
     Press, 2020, 9-10.
 
-[^20Nanna_14]: Appadurai and Alexander, *Failure*,12
+[^20Nanna_14]: Appadurai and Alexander, *Failure*,12.
 
 [^20Nanna_15]: Legacy Russell, *Glitch Feminism: A Manifesto*, London: Verso,
     2020, 30.

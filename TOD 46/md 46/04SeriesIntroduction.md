@@ -706,11 +706,11 @@ precarious times. Our *failurfesto* proposes:
 > We do not see failure as something to be avoided, cleaned up, or
 > concealed, nor as a normative part of the grinding journey to success.
 >
-> > We critically resist separating failure into subject, method or
-> > approach. Instead, we view it as something worthy of considered
-> > attention in research that has the potential to unravel, reveal or
-> > open up alternatives, unexpected combinations and narratives,
-> > thicken scholarly practice and onto-epistemologies.
+> We critically resist separating failure into subject, method or
+> approach. Instead, we view it as something worthy of considered
+> attention in research that has the potential to unravel, reveal or
+> open up alternatives, unexpected combinations and narratives,
+> thicken scholarly practice and onto-epistemologies.
 >
 > *We work together to draw attention to innovative ways of thinking
 > about failure as a productive constituent of research processes and

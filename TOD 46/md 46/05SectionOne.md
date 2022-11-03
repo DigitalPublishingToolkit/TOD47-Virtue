@@ -15,8 +15,4 @@ Abstract:   short description of the article (100 words)
 Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
-
-
 # Section I: Digitality, Archives, and Design
-
-#

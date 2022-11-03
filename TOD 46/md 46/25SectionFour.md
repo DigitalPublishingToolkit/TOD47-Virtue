@@ -16,7 +16,4 @@ Keywords:   50 keywords for search and indexing
 Rights: CC BY-NC 4.0
 ...
 
-
 # Section IV: Play and the Senses
-
-#

@@ -244,9 +244,9 @@ interview:
 > work, which might be a relationship or yourself or a creative work or
 > critical \[work\] or being responsive to another human in a work way,
 > you know, any, any deep engagement I think becomes compromized.
-> \[Participant Q, interview, 2020\][]{#_wz787jbv4f08 .anchor}
+> \[Participant Q, interview, 2020\]
 
-[]{#_h27joyf6ws38 .anchor}In Figure 9.1, the scribbled ‘maps’ of the
+In Figure 9.1, the scribbled ‘maps’ of the
 improvised WCFH space offered to us by Participant C provide an
 absurdist take on the working carer’s subjective experience of the
 lockdown. There is no guidance in this map: meaning has broken down.
@@ -259,7 +259,7 @@ instead ‘a sensory experiential phenomenology of co-being in which “the
 forward thrust of our lives” is interfered with’.[^14Julienne_27] In this way, it
 is also an instance of Sullivan’s aesthetics of interruption and
 emblematic of the lived experiences of many participants in our study.
-[]{#_omzsfvqo4v6n .anchor}In follow up interviews, our participants
+In follow up interviews, our participants
 spoke at length about the problem of interruption. This flags a
 deepening concern about how WCFH periods, still being experienced by
 many of our participants as we finalize this chapter in 2022, will
@@ -282,16 +282,15 @@ and ubiquitous sense of failure:
 And:
 
 > I know I’ve failed at my creative work: I’ve not even attempted it
-> once. \[Participant D, interview, 2020\][]{#_8uiuy6yvcgko .anchor}
+> once. \[Participant D, interview, 2020\]
 
-[]{#_q8f9831sz3oq .anchor}
 
 As one participant remarked about the challenges of home schooling a
 young child, ‘it was like having a baby again, I couldn't do anything.
 Whilst I was with him, I couldn't do anything for myself’ \[Participant
 J, interview, 2020\]. This feeling of *stuckness* relates to other
 participant responses that detailed the frustration of living in the
-fluidity and *unfixedness* of domestic space. []{#_vyvvw0yg914n .anchor}
+fluidity and *unfixedness* of domestic space.
 
 Figure 9.6 shows how Participant A perceived ‘accusing’ objects that sat
 beyond the flimsy boundary of the screen; while in Figure 9.7
@@ -361,9 +360,8 @@ presented in Figure 9.8.
 > working men: men employed or skilled in some form of labor. Full stop.
 
 Figure 9.8: Participant G’s response to our creative writing prompt
-while WCFH, 2020.[]{#_gjdgxs .anchor}
+while WCFH, 2020.
 
-## 
 
 ## Collective Failures as Adaptation 
 

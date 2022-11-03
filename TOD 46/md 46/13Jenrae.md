@@ -214,7 +214,8 @@ Scott Morrison’s government for their abject failure to act on climate
 change and the catastrophic bushfires.
 
 ![](media/image1.jpeg){width="3.2625317147856516in"
-height="2.4448982939632544in"}Our first collaborative banner
+height="2.4448982939632544in"}
+Our first collaborative banner
 *COLLAPSE//SURVIVE* (2020) hung from the bow of the boat (Figure 8.1)
 and was later carried in the Sydney Invasion Day Rally (Figure 8.2). The
 text highlighted the prophetic doomsday tensions present in contemporary

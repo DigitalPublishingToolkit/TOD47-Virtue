@@ -190,9 +190,9 @@ these emotions at once. I got on the microphone and said this:
 > booking us and leaving us to disappear from our communities. That time
 > is over. We will come out here every fucking time you take one of us.
 > You will not take any more of us. We will not let you. Defund! Disarm!
-> Dismantle! Abolish!![](media/image6.jpeg){width="3.2444444444444445in"
-> height="4.315972222222222in"}
-
+> Dismantle! Abolish!
+> ![](media/image6.jpeg)
+> 
 Figure 13.6: Police headquarters (52 Division) sign covered with
 placards and protest signs. Photo credit: Syrus Marcus Ware.
 
@@ -238,7 +238,7 @@ and lived through a year of surveillance and restrictions on their
 movement and living before their charges were finally dropped in July
 2021.
 
-\_/\_/\_/
+\_\_\_
 
 It’s now the summer of 2022 and the uprising has quieted down a bit,
 though racial injustice continues and Black deaths at the hands of the

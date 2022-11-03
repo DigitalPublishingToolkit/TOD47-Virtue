@@ -43,7 +43,7 @@ I start this chapter with drawings and words by Sidonie Meißner, an
 inventor living in Germany in 1893. She applied for a patent for a
 ‘Garment for Lady Cyclists’ at the British Patent Office — with the
 assistance of Patent Agents in Chancery Lane, London — on 11^th^ July,
-and it was accepted on 23^rd^ September in the same year. It responded
+and it was accepted on 23rd September in the same year. It responded
 to a cycling craze sweeping Europe in the late nineteenth century. Both
 women and men were enthusiastic early adopters of the bicycle, but they
 experienced it very differently.[^08Kat_2] Early women cyclists suffered

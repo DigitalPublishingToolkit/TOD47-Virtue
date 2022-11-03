@@ -354,7 +354,6 @@ height="4.697916666666667in"}
 Figure 19.6: Future Play workshops: Children collaborate to create
 ecological games, 2017. Photo: Larissa Hjorth.
 
-## 
 
 ## Bibliography
 
@@ -365,12 +364,12 @@ Georgia. ‘Solastalgia: The Distress Caused by Environmental Change’,
 
 Berinato, Scott. ‘That Discomfort You’re Feeling is Grief’, *Harvard
 Business Review,* March 23 2020,
-https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief
+https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief.
 
 Breen, Lauren J., Kawashima, Daisuke, Joy, Karima, Cadell, Susan, Roth,
 David, Chow, Amy, and Macdonald, Mary Ellen. ‘Grief Literacy: A Call to
 Action for Compassionate Communities,’ *Death Studies*, 46:2
-(2022): 425-433;
+(2022): 425-433.
 
 \_\_\_\_, Aoun, Samar M., O’Connor, Moira, Johnson, Andrew R., and
 Howting, Denise. ‘Effect of Caregiving at End of Life on Grief, Quality
@@ -378,7 +377,7 @@ of Life and General Health: A Prospective, Longitudinal, Comparative
 Study,’ *Palliative Medicine* 34 (2020): 145-154.
 
 Butler, Judith. ‘Violence, Mourning, Politics’, *Studies in Gender and
-Sexuality*, 4:1 (2003): 9-37
+Sexuality*, 4:1 (2003): 9-37.
 
 Butler, Judith. *Frames of War: When Is Life Grievable?*, London: Verso,
 2009.
@@ -516,7 +515,7 @@ Non-Humans (First Woman and Sky Woman Go on a European World Tour!)’,
 [^27Larissa_3]: Stephanie Dalzell, ‘Do You Prefer Pets to People? So Do About a
     Third of Australians, According to Australia Talks’, *ABC News,*
     Saturday 29 May 2021,
-    <https://www.abc.net.au/news/2021-05-29/australia-talks-pets-easing-loneliness-and-bringing-people-joy/100163858>
+    <https://www.abc.net.au/news/2021-05-29/australia-talks-pets-easing-loneliness-and-bringing-people-joy/100163858>.
 
 [^27Larissa_4]: Dalzell, ‘Do You Prefer Pets to People?’.
 
@@ -528,7 +527,7 @@ Non-Humans (First Woman and Sky Woman Go on a European World Tour!)’,
 
 [^27Larissa_7]: Philip Vannini, ‘Non-Representational Ethnography: New Ways of
     Animating Lifeworlds’, *Cultural geographies.* 22.2 (2015): 317—327,
-    317
+    317.
 
 [^27Larissa_8]: Donna Haraway, *The Companion Species Manifesto: Dogs, People and
     Significant Otherness*, Chicago: Chicago UP, 2003; Donna Haraway,
@@ -626,7 +625,7 @@ Non-Humans (First Woman and Sky Woman Go on a European World Tour!)’,
 
 [^27Larissa_33]: David Kessler (2020) cited in Scott Berinato ‘That Discomfort
     You’re Feeling is Grief’, *Harvard Business Review,* March 23 2020,
-    <https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief>
+    <https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief>.
 
 [^27Larissa_34]: Michael Richardson and Kerstin Schankweiler, ‘Affective
     Witnessing’, in Jan Slaby J and Christian von Scheve (eds),
@@ -689,7 +688,7 @@ Non-Humans (First Woman and Sky Woman Go on a European World Tour!)’,
     Is Grief’.
 
 [^27Larissa_50]: See my website for further details about workshops:
-    www.larissahjorth.net; see www.playbouring.net
+    www.larissahjorth.net; see www.playbouring.net.
 
 [^27Larissa_51]: Here I am utilising Bill Gaver’s notion of cultural probes as a
     creative prompt that collects often tacit perceptions. See Bill

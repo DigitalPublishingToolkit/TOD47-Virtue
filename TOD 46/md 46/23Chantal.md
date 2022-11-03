@@ -60,7 +60,7 @@ re-presenting, the *failuristic* tendencies that abound in absurdity.
 > I was already feeling uneasy. All at once, the silence stopped
 > breathing.[^23Chantal_4]
 
-\_/\_/\_/
+\_\_\_
 
 The word ‘want’ stems from *vanta*, an Old Norse verb that means ‘to be
 lacking’. We want something that we feel we are missing. Immediate
@@ -250,7 +250,7 @@ Meaning is made, broken, and remade through the repetition. And perhaps,
 not surprisingly, this leads us back to Camus and that certain type of
 conscious awakening that he describes in *The Myth of Sisyphus*.
 
-\_/\_/\_/
+\_\_\_
 
 The choice to stop wanting does not lie in a magic potion, in willpower,
 or even in refusing the world of the living. To stop wanting, we must
