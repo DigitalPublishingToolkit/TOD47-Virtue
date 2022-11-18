@@ -1,0 +1,576 @@
+---
+Pr-id: MoneyLab
+P-id: INC Reader
+A-id: 10
+Type: article
+Book-type: anthology
+Anthology item: article
+Item-id: unique no.
+Article-title: title of the article
+Article-status: accepted
+Author: name(s) of author(s)
+Author-email:   corresponding address
+Author-bio:  about the author
+Abstract:   short description of the article (100 words)
+Keywords:   50 keywords for search and indexing
+Rights: CC BY-NC 4.0
+...
+
+
+# ‘Open Secrets’: An Interview with Meredith Whittaker
+
+### Interviewed by Jathan Sadowski and Thao Phan
+
+Jathan Sadowski (JS): Let’s start with your background. How did you come
+to work in this area, starting with Google and then co-founding AI
+Now?[^14Sadowaski_1]
+
+Meredith Whittaker (MW): I’m someone who fell into it. To me, Google was
+just a job and not a calling. I think this lens helped to ground my
+perspective: looking at tech issues in terms of labour, looking at
+academia as an industry. I went to Berkeley and graduated undergrad in
+2006. I was broke and Google was a local company that was hiring. At the
+time, Google was expanding rapidly. ‘Up and to the right’[^14Sadowaski_2] seemed
+like it would go on forever and you would hear people like Sheryl
+Sandberg say in grave seriousness that Google had ‘unlocked’ the secret
+to a forever growing capitalism that is also good for the world. It felt
+gross, but deeply fascinating. And it was very hard to explain to my
+friends. It was definitely not in line with my Food Not Bombs[^14Sadowaski_3]
+comrades. But at the same time there was no counter narrative in sight.
+The sense that tech had figured it out was hegemonic. And I was plopped
+into that environment as a contractor doing customer support for
+Writely, a Google acquisition that later became Google Docs.
+
+When I started, I made \$45K a year—more than my parents had ever made.
+It was very exciting, but it wasn’t my identity, and I didn’t
+reflexively try to love it. I wasn’t predisposed to love a job. I
+approached waged work as a type of scam. I don’t come from a class where
+your identity is your job. Your job is something you hate and you do
+because you have to (the less the better) and then life is everything
+that happens afterwards.
+
+JS: In 2006 Google was very much still the rising giant. I can only
+imagine with that kind of money, that kind of prestige, that early after
+graduating, a lot of people would have happily been like, ‘Where’s the
+Kool-Aid? I’m drinking up.’
+
+MW: Yes, it was a wild place. They had free juice. They had those TOTO
+bidet toilets, that are like \$1000 each, in every bathroom. Something
+was definitely working for some folks. And this is part of what was so
+fascinating at that time. I was just trying to work it all out, asking
+naive questions like, what exactly is making all this money? Where is
+this coming from? Ordering information…what the hell does that actually
+mean?
+
+One of the reasons I was able to rise and thrive at Google, for a time,
+was that my background didn’t prepare me at all for the environment. I
+was unversed in the civility politics of the professional elite. I
+didn’t realize that Google’s blank cheque wasn’t actually written for
+me. I was chasing perks like 20 percent time,[^14Sadowaski_4] and still believed in
+these corporate narratives about flat hierarchy, meritocracy, the idea
+that the best ideas win wherever they come from. I put those around me
+in the awkward position of either taking me aside and explaining how
+implicit inequality in the workplace functions or giving me a pass. So I
+was guilelessly riding around campus on Google’s Gbikes meeting people
+in other buildings proposing 20 percent projects and generally wide-eyed
+trying to cash that blank cheque. There was a lot of free space at
+Google in 2006, and I didn’t know I wasn’t supposed to take it, so I
+did.
+
+And this worked! I was eventually brought on to a new team in
+engineering to work on document standards, and I began running a group,
+which was actually extremely spicy and gave me a front-row view into how
+corporations were working through standards bodies and volunteer
+organisations to shape technical standards in ways that benefitted them,
+all while maintaining the veneer of a collective, expert consensus. The
+rising tech industry was parasitizing and co-opting these older forms in
+ways that, to an outside observer, weren’t obvious. From there, I went
+on to help found and run M-Lab, Google’s Open Research Group, AI Now,
+and so on.
+
+Thao Phan (TP): Can you say how many years in total you were at Google?
+
+MW: I started July 2006 and my last day was July 2019. So, 13 years.
+
+TP: Do you think there was a particular moment that really changed your
+view of what was going on or were there specific events? Was it always
+alienating or was there a particular moment where you said, ‘Actually
+it’s beyond alienating now. Now it’s unethical. Now it goes against my
+personal ethics’?
+
+MW: There are a number of inflection points. I had an English Literature
+and Rhetoric degree, which I was drawn to because that’s where the cool
+kids were at Berkeley. I didn’t understand everything I was exposed to
+there, but there was an affective draw—like, the weirdos are over there,
+and I love them. I’ll read this shit that doesn’t make sense because I’m
+doing it in a community with people who seem kind and strange and cool.
+This is the early 2000s. Post-structuralism is coursing through the
+veins of academia, they’re still taking psychoanalysis seriously, and
+I’m thrown in with barely a map, reading Lacan and wondering if I even
+know how to read anymore. I’m so confused. I’m like a child.
+
+So I had a lot of exposure to ways of thinking structurally about power,
+but these approaches had no tangible referent in my daily life at that
+time. I think it was actually those ideas that later became tools for
+grappling with what I was experiencing at Google. It was there that I
+started returning to Foucault, to Marxist theory, to early anarchist
+thinkers (who weren’t taught in college but who I was familiar with) and
+suddenly feeling it light up in me as I began to recognize the way power
+was operating.
+
+Developing an analysis I felt comfortable with about Google and tech was
+a long, agonistic process. And it’s ongoing. But I think I was assisted
+in this task because I already had a critical inclination and also
+because I didn’t go through the traditional CS degree training. I wasn’t
+the right gender, I didn’t come from the right class, I’m not familiar
+with the ceremonies that take place in corporate workplaces that mark
+someone’s belonging, so I’m persistently struggling with feelings of
+alienation, and I’m necessarily asking questions about things that
+others take as received wisdom. This helped place a prophylactic layer
+between me and the Kool-Aid.
+
+I didn’t know what a server was when I started. I knew nothing about
+computational tech, and, as I did with the promises made by the company
+as a whole, I took a lot of things at face value. Like the claim that
+Google ‘Organised all the world’s information’. OK, cool, everyone is
+nodding along; that must be a thing Google does! But then in trying to
+understand what I figured everyone else knew, I would ask a really
+stupid question, like what’s information? And then, as often as not, a
+gaping hole would appear as I processed the fact that information meant
+content formatted in HTML and accessible to a web crawler. I would spin
+out on those questions and revelations. They were like worry beads. But
+there wasn't an intellectual community that I could do that with, so it
+was isolated and halting, and to handle it I read a lot. When I learned
+that a thing called ‘science and technology studies’ existed I genuinely
+almost cried. I had been looking for people to talk to for so long!
+
+JS: You said something earlier that I think is a really great point and
+also deceptively powerful when you were talking about how this was just
+a job. Like you clock in, you clock out, you fucking hate your work, and
+then life is what happens after that and before that, not during that
+time period. But I think that is actually a lowkey radical thing to
+believe right now, especially in our space and especially in what Max
+Weber calls vocations. These kinds of professions that are seen as
+‘callings.’ I think the tech sector and academia both raise themselves
+up like these are not jobs, these are callings and you need to love what
+you do and you need to be devoted to what you do.
+
+Then the flipside that nobody ever says is like, ‘Yeah, well, it doesn’t
+love you back and it’s not devoted to you back.’ But I think that idea
+of it being a vocation, as not being a job, also prevents a lot of
+people from being that internal critic of their profession or asking
+those kinds of questions. I wonder if you could just speak a little bit
+more about the radicality of recognising this as a job, but also the
+kind of absence of that consciousness in the professions we work in?
+
+MW: I think about this a lot, because obviously my life arc at Google
+concluded with a devotion to labour organising and an interrogation of
+the question of who is a tech worker? What is tech work? What the fuck
+are we doing? And I think this question points to the need for more
+interrogation of the way that these institutions are able to hijack or
+shape our sense of self, our sense of belonging, and our space for
+community and sociality, and channel those into demands for almost
+familial loyalty.
+
+What is at stake for people if they don’t view a fancy professional
+title as a calling or identity? What do they lose if they treat it like
+a job, the way I treated my dishwashing or retail gigs? What do they
+lose? This is true in academia and tech. When I talk to academics, which
+is the milieu I’m now in, the profession-based self-regard is very, very
+similar to tech.
+
+To me, what is so radical and genuinely enjoyable about organising is
+the process of breaking down these emotional connections to the
+employer, to the job, and redirecting this affection, this loyalty, to
+the people around you. This is the process of making solidarity, and
+solidarity exists when you identify yourself more with who you love and
+your bonds together than with your place in an institutional hierarchy.
+This identity built within community and solidarity can displace the
+identity built by job ladders and performance reviews. It doesn’t happen
+overnight. It’s a reflexive practice that requires breaking down your
+sense of self and its dependence on your standing within these
+institutions and working to redefine yourself in relation to each other
+and the bonds of friendship and love that connect you as humans to your
+colleagues.
+
+I think this process needs to start with recognising that these are
+jobs. If they pay you, they ultimately get to tell you what to do,
+however many layers of obfuscation that power relationship may be
+shrouded in. No one actually forgets who pays them, ever. And getting a
+prize in your job—whether it’s an NSF grant, or a promotion, or
+tenure—doesn’t mean you’re a better person. It means you’re pleasing
+those with power over you. Putting it this way cuts at the knees of
+getting As for a living.
+
+JS: It is wild how many academics I have actually and seriously heard
+say that the source of funding or support for their work doesn’t
+influence their work. Like, they really do see themselves as these
+Randian Übermensches who are totally void of any external influence, who
+rise above the power struggles and they just do their own thing. People
+just fund their work because they love what they’re already doing.
+
+MW: Yeah, and here again we can ask, what are the stakes of them
+believing otherwise? I can say personally, never in my life for a second
+have I forgotten who pays me because I don’t get to live if I’m not
+paid. You don’t forget that. And I’ve felt conflicted as Faculty
+Director of AI Now when, for example, I’m writing something that I know
+that it’s going to hit a deep nerve. It’s going to piss off a lot of
+people and open things up in a way that the tech companies on whom the
+university is dependent for funding are going to hate. And I have to
+balance this with my duties of care to AI Now’s postdocs, to the people
+who need to enter the job market out of AI Now. What happens to the
+institute’s funding, prestige, and ability to support its people if I,
+or AI Now, make the wrong donors or university trustees uncomfortable?
+
+TP: It must be an interesting moment as a labour organiser when you find
+yourself in that position of power. When you’re able to make jobs for
+others, give job security to others. It’s an incredible amount of
+responsibility. But do you think it can become an alibi? A justification
+to oneself for accepting morally compromised funding (e.g. military
+funding or industry funding that comes from mining). I know that many
+academics feel their main responsibility is to create jobs for others.
+That in this precarious and ethically compromised funding landscape, the
+best we can do is just to make jobs and redistribute funds.
+
+MW: Another way to put it is that you’re a boss. And in the context of
+the university, in my context, also a middle manager whose job is to
+make the university administration happy by bringing in money and
+increasing the university’s prestige in a way that doesn’t trouble
+donors. And you actually don’t have that much power within these
+universities. There are layers and layers of well-paid administrators:
+Provosts and Vice Provosts, Deans and Vice Deans. There isn’t a direct
+boss like in industry, or structures that enforce a labour relationship
+in a transparent way, so the worker discipline happens in indirect ways
+and is largely enforced through internalized self-discipline that seems
+to come more easily to people trained at doing well on tests and getting
+good grades. They’re very good at predicting what will please those
+giving the grades. This may look like independence at a very shallow
+level (e.g., no one is physically leaning over my shoulder while I
+write) but it’s anything but. And I think the personal sense of
+independence and agency—the assumption that academics work out of pure
+devotion to knowledge untouched by the concerns of bare life—undermines
+our ability to see how fiercely these structures do work on us, and
+ultimately makes it extremely hard to organize and develop labour
+consciousness.
+
+JS: There’s a weird psychology and sociology happening in academia. I’ve
+long said too many academics are aspirational middle managers. Their
+goal is to have a little bit of power over a small fiefdom within a
+larger organisation. I think that also shows in the proliferation of
+middle management positions within universities. It does a lot to
+obscure the political economy at work there as well, where nobody is a
+worker, everybody is a manager.
+
+MW: And it’s built on the backs of the precarity economy, the adjunct
+workforce that does most of the actual teaching at universities. That is
+what the university is now. You have a couple of hold-out
+positions—tenure-track jobs with security and health insurance and some
+prestige—and the chance at getting one of these scarcer-and-scarcer jobs
+helps enforce compliance among the thousands of people competing for
+what could be literally two or three jobs in their field. And if they
+don’t get a job that year? Too bad, into the adjunct pool you go. This
+is why I don’t think there’s a solution to the problems that plague the
+university that doesn’t centre labour organising because what’s
+happening is a raw contest of power. They’re not going to give us more
+power and agency and security because we’ve come up with a better
+theorem.
+
+JS: I do want to talk about AI Now and your transition from being this
+internal critic within Google to an external critic of the larger
+industry. There’s a term, which is taken from the military, called red
+teaming. Big organisations love to have red teams. They’re like friendly
+critics who act like the opposing side in a war or in the marketplace or
+whatever so that then we can better understand their strategies and how
+to counter those strategies. But at the end of the day an internal
+critic or a red team still has to be part of the group. They still have
+to be dedicated to the organisation.
+
+MW: I love the red team analogy. It’s a containment strategy that I see
+used by these companies in which they give someone like me a platform
+but no power over decision-making. Microsoft Research serves a similar
+purpose in my view. This allows the company to claim that they consulted
+critics and synthesised our views, giving a patina of legitimacy to
+whatever they were going to do anyway. I will say it took me a while to
+realise this.
+
+I co-founded AI Now much before I left Google. So I was, in a sense, an
+embodied example of some of these conflicts, although I would argue that
+I was also subverting them in certain ways, or at least testing their
+outer limits by funnelling significant Google money to critical work
+housed outside of the company, and in turn funnelling some of that to
+others doing radical work. But the ability to up and found a university
+institute while employed as a tech worker deserves attention here and
+shows the extent of the structural porosity between the university and
+the tech industry. The university, particularly computer science and
+engineering disciplines are dependent on tech company funding and
+infrastructure. And this meant that no one batted an eye when the idea
+of AI Now was raised.
+
+To get a sense of how this happened, how it got to the point it’s at
+now, we can look at the recent history of ‘AI’ and machine learning. Go
+back only 15 years, and the field of ‘AI’ was a backwater. There were a
+handful of stalwarts researching machine learning and related
+disciplines. They would meet up at small conferences in mid-tier hotels
+in San Diego or whatever. They didn’t have their own labs, they’re not
+running flashy centres, mainly because these fields weren’t considered
+very important or profitable. Then, around 2010 you had this
+consolidation of the winners of the tech economy, the companies whose
+surveillance advertising business model made them rich and increasingly
+central to tech.
+
+The Facebooks, the Googles, etc. were already structured such that they
+had massive infrastructure for processing and collecting data, massive
+market reach which gave them access to continually refreshed flows of
+data. This kind of reach and access is not something you can just snap
+your hands and buy. So they had these ingredients: centralized
+infrastructure, data, and access to markets that make them new data
+constantly. And the big a-ha moment was the revelation that when you
+expose these older machine learning techniques to the quantity of
+labelled data and to the massive computing infrastructure, you could
+make them do things that they didn’t do before. Which is empirically
+performing better on one or another benchmark. But the ‘AI’ techniques
+weren’t what was new; what was new was the concentration of data,
+infrastructure, and reach.
+
+This was a wakeup call for these tech companies. There was a recognition
+that hey, we have data, we have compute, and now, in the form of
+decades-old ML techniques, we have a kind of magic sauce we can pour
+over these things that we can use to create ‘intelligent’ products and
+services that can justify our incursion into a vast array of markets.
+
+Now these companies had the ability to claim that they were building
+general purpose or smart, intelligent, superhuman etc. technologies that
+would augment or replace decision-making across myriad domains, while of
+course entrenching their power.
+
+So what does this have to do with the extensive entanglement between
+academia and the tech industry? Because there weren’t that many ‘AI’
+dudes, and most of them were in some dusty lab at some university
+minding their business. Then the early-to-mid 2010s come and suddenly
+there was this hiring boom where these guys were being offered football
+player salaries. All of the companies were suddenly competing to recruit
+‘AI’ researchers because they realised that ‘AI’ was super profitable.
+And the rush to hire ‘AI’ researchers was also a rush to fund ‘AI’
+research—research that required serious computational infrastructure and
+access to large amounts of labelled data that could be put to use in
+ways that were considered cutting edge. So systems of dual affiliation
+became popular, in which a researcher would retain their university
+position and title while working for a tech company. And importantly,
+the turn toward ‘AI’ meant that universities were scrambling for data
+and infrastructure—things that the tech industry controlled—if they
+wanted to remain competitive in the CS and STEM rankings. I wrote more
+about this captured relationship in The Steep Cost of Capture,[^14Sadowaski_5] which
+maps this out and provides some analysis of why this entanglement is so
+dangerous to academic independence and critical work.
+
+JS: Could you talk about Project Maven,[^14Sadowaski_6] the walkouts at Google, and
+all the other stuff happening around that time period?
+
+MW: Maven was a secretive contract that Google signed with the Pentagon
+to build machine vision ‘AI’ for drone targeting and surveillance. It
+was a small contract, but it was designed as an on-ramp to prepare
+Google to have a better chance of bidding for the JEDI contract, which
+was a massive initiative to provide all the computational infrastructure
+and ‘AI’ for the military from battlefield to command station.
+
+Google was strategic. They brought in Diane Greene, who was the former
+VMware CEO who brought in a large number of people from her government
+relations team. I learned about the Maven contract in late 2017 when my
+job at the time was to say, ‘Watch out for AI, it’s fake and weird’, and
+hope people listened.
+
+Then I’m looking at Maven and I’m like, I’m being played. We’re all
+being played. This is fucking egregious. How could I not put my body on
+the line for this given that I am making my money and my name on
+supposedly criticizing it? I mean, we’re talking about Google, a company
+that has figurative dossiers of our most sensitive information, our
+friends, our purchases, our location? And now Google wants to build
+machine vision systems, trained on god knows what shitty data, to equip
+the illegal US drone war with more automated surveillance and targeting
+systems? Google, a multinational company with more workers outside the
+US than within it, wants to work for the US military, a relationship of
+dependency that could give the US state increasing ability to pressure
+Google and leverage those ties? No.
+
+This was where I turned to labour organising, along with a small group of others. It was clear that we weren’t going to convince them with ideas. They knew those ideas, they’d heard me and others lay out our tight and well-crafted arguments. We were right. That wasn’t the issue. So we needed to build a force capable of actually taking on their power. And I had no idea if it was possible. At that point it was an experiment with a handful of us. But we tried. I wrote an open letter, the ‘Cancel Maven’ letter, which garnered
+thousands of signatures. This was early 2018, and it hit a nerve.
+ Because at least at that time there were a lot of people in the
+ company who really believed that they were serving the public good and
+ thought Google should not be in ‘the business of war,’ as the letter
+ put it. The company didn’t see it coming, and we had the advantage of
+ being well out ahead of them for at least the first three or so
+ months.
+
+ We just pushed it as far as we could go, even as Google leadership was
+ continually trying to engage and contain, which did at times backfire
+ for them. So, for example, they hosted a town hall that was broadcast
+ across the world where they flew me out to Mountain View to be on the
+ stage and do three sessions of debate, the first starting at 8am, the
+ last starting at 8pm, to get global coverage. And what astounded me
+ was that none of the executives prepared. I had only 48 hours’ notice and still I had pages and pages of notes, had rehearsed, had all my numbers and stats on flashcards. And they walked out and hadn’t prepared. So there were a lot of ways that we benefited from their hubris and unforced errors. And happily at that point I had enough capital via my work and my reputation to be taken seriously.We were able to cancel that contract and also able, I think, to inflame a desire for organising among people who then began > contribute and lay the groundwork for building longer term power. By the end of Maven, I knew I was fucked in terms of my ability to stay at Google. I knew they’d wait a little, not go in all at once. But they were going to come for me because I was no longer a dissenting voice. I’d actually cost them something, and they no longer found that cute. So I figured that the only thing I could do was push the gas as hard as I could and keep organizing and see what happened while keeping meticulous notes and not letting my guard down Maven was the first wave of visible elite tech worker organising targeting the tech industry as it exists now. It flushed the tech nervous system with the idea that organizing was a legitimate and useful means of checking these powerful companies and enacting some of the ‘ethical’ outcomes that otherwise sit on shelves as position papers never implemented. The walkout was the most visible manifestation of this newly accepted form of resistance. It was so lovely. It came together quickly and was organized by mainly femmes and people in operational roles whose job is to organise shit all day anyway—very much the glue that keeps the company together. And suddenly there are hundreds of hyper competent, mainly femmes, turning their daily wage work skills against the company, using all this talent differently. In about three days a whole apparatus came together with ground teams that were passing out flyers of the talking points to every location across the globe, with regional leads who checked in with the core organizers, with distribution networks to ensure everyone had the latest protocol, with a team of people who were iterating and taking feedback on the demands. Just a whole polished infrastructure from scratch. I feel so inspired just talking about it. It really demonstrates the possibilities for collective action, and how much we can do if we redirect our labour. It also transformed people. People were happy! Suddenly we had a clear example of the difference between a world where we direct our energy and social relationships into making Google money, and one where we direct this toward creating a world we want. And I saw people start to ask, ‘What else can we do?’ These moments where the possibilities of reclaiming our labour are made explicit are so powerful. And it’s no accident that it was right after the walkout[^14Sadowaski_7] that Google got serious about cracking down.
+
+TP: I wonder if we could just shift the conversation now to hard and
+soft power in the institution. You saw all these problems when you were
+working in industry and then you have this pivot into academia but then
+you also see the same exercise of power through funding, through other
+forms of influence. Could you take us through the kinds of influence
+that you see Big Tech exercising on academics?
+
+MW: While I was in Google it was common practice to fund friendly
+academics. It was common practice on the policy team to, say, shape a
+white paper or an academic paper alongside friendly researchers, whom
+you were also likely funding. And then when the friendly paper with the
+graph you wanted showing YouTube is good for musicians, or whatever,
+made you more money was published (i.e. entered the canon as a fact) you
+got a pat on the back because you were able to, say, plant that little
+fact in Eric Schmidt’s speech in front of the European Commission, or
+similar. These things weren’t hidden. They were common practice and a
+key component of policy, comms, and lobbying strategy.
+
+I’m an academic now, but I have never had been treated better by a university than when I was a tech worker with money. And once I was at NYU full time, I began to see the other side. To see how the political economy at the university works, and how essential grants and funding are for success, and how contingent they are on doing a certain type of not-too-radical work. While I was at Google, I’d known they were courting academics to influence them, but I hadn’t realized exactly how much power that influence wielded. What a stranglehold these companies had, particularly in light of the neoliberal university’s search for big donors, and the pervasive unwillingness to piss off those donors. This hit me and AI Now hard. We were warned by the NYU engineering school (where we were situated) to align our views with the views of other engineering centres, which were generally positivist and technocratic. In early 2021, we were told that we didn’t align with the strategy of the school and that we needed to find another home. Then, in late 2021, NYU informed us that they were going to take all of our gift money, leaving us with the choice of litigating, which is expensive and which AI Now, as a part of NYU, can’t pay for, or of walking and trying to make up the over four million dollars that was effectively stolen by the university. We are still dealing with the fallout of this, and the future isn’t certain. And again, there wasn’t a way to succeed ourselves out of this situation. This all happened while AI Now was, by any given measure, one of the most impactful university centres doing critical tech research in the world. We’ve shaped a field along with a handful of others. We are meeting all the benchmarks and exceeding them by orders of magnitude in ways that universities ostensibly care about. We get all the press, yada yada yada. But when push comes to shove, these don’t animate the neoliberal university. At the end of the day, the only interpretation left to me is that the engineering school knows it's not rising in the rankings if they don’t get an Amazon-sponsored machine learning centre, if they don’t get infrastructure grants from Meta, etc. These are fundamental requirements for ‘cutting edge’ CS research, and AI Now was in the way. And I don’t think the threat to critical work can be made any clearer. For these universities there is no contest between the \$250K Ford Foundation grant we can secure to hire a couple of postdocs and the $15 million that Eric Schmidt just gave to Yale for some new AI center. They know that. We don’t have much leverage. Amy Westervelt has this really good podcast called *Drilled* where she looks at the history of climate denialism. She looks at the time where Exxon was funding and catalyzing rigorous climate research in pursuit of potentially changing its business model to provision non-carbon sources of energy. Why not if you can make money either way? Then at some point they decided that they weren’t actually interested in exploring those non-carbon sources. Around this time, they decided to push the climate scientists out, and eventually to fund and platform climate denial and fringe research that could backstop it. This shifted the field of climate research, and created an environment where vocal critics were targeted, where they faced threats to their careers. I see tech being at a similar inflection point. For a moment, they thought they could absorb and recuperate criticism. That moment has passed, and critical work is in a very precarious position right now. We need much more space to discuss and strategize given this, and I worry that the polite rooms assembled by funders aren’t providing this.
+
+TP: I’d like to come back to the question of labour. How does the
+political economy of funding affect the nature of labour today in the
+institution? Many academics now feel like they have to operate as brands
+in order to attract funding and other opportunities. This is not meant
+as an insult, but you are also a kind of microcelebrity in the field.
+But I guess, even your example with AI Now—exceeding all the KPIs yet
+still under threat from your home institution—shows that reputation
+amongst peers is not enough. You must also have the right kind of brand
+and partnerships.
+
+MW: Yep. I mean, I’m definitely a public personality, something that
+felt like it just happened to me. The whole being a brand thing is
+tricky and unpleasant. It makes it harder to meet new people and relate
+to them because there’s a different you, the you as a regular person
+with feelings, than what they know or assume from Twitter and
+soundbites. Anyway, I think this is part of the relentless and
+exhausting competition for attention and recognition that we hope
+results in even scraps of funding, which we are relying on to create
+some stability that can support the work. And microcelebrity is one
+tactic. All of this is what happens when you withdraw the social wage
+and implement a system of precarious labour that represents most
+academic work at this point.
+
+> I see this leading to a culture of sedimenting accomplishments and
+> acclaim, trying to out-succeed the forces of precarity and insecurity.
+> And it’s pernicious and has a lot in common with the ‘model minority
+> myth’ and the myth of the meritocracy, insofar as it reads
+> accomplishments and success as reliable metrics, and tries to
+> accumulate them in pursuit of status and standing that have more to do
+> with class and white supremacy than with ‘merit.’ And this impulse—to
+> get all As so you can get health insurance—is the enemy of organizing.
+> Organizing requires a workers’ consciousness, and it requires that we
+> get real with ourselves and each other as people and say this fucking
+> tower of accomplishment culture is not good for any of us. It makes us
+> into competitors not comrades—and oh yes, it’s not keeping us safe.
+> The people with power are not microcelebrities, they aren’t known,
+> they get the benefit of privacy and security. They don’t have to go
+> out there and dance just to get a quarter thrown at them from some
+> foundation in return for a promise to complete a bunch of
+> deliverables. And I should mention that this model is not true on the
+> right. The Kochs, the Mercers, the money flowing in from tech is
+> sizable, and it’s secure, and it’s not asking people to dance for
+> yearly funding. It’s funding them richly and letting them do their
+> thing, which happens to be convenient for those in power.
+>
+> The whole thing is also set up also to create these burnout cycles
+> where you’re never quite secure enough to plant a taproot and sit down
+> and do work that is quiet and critical and takes a long time to
+> foment. Instead, we’re all chasing the latest buzzwords and hoping to
+> shove a round peg into a square hole so we can keep our people
+> employed. This produces work that doesn’t match the moment, to be
+> diplomatic about it. We saw this over the last five or so years with
+> everyone jumping on the ‘AI’ bandwagon, and justifiably so, because
+> that’s where there’s a smidgen of money that could hopefully keep the
+> roof over the humanities and social sciences.
+
+TP: I’m so glad you said that. I think so many people would be so
+shocked to hear that AI Now is struggling within its own institution.
+Especially here in Australia because, as you say, AI is so hot right now
+and ethics is so hot right now and one of the few places in the
+humanities where you can get a job. Both Jathan and I, are employed in
+one of these ‘AI for social good’ type centres.
+
+> We’re coming to terms with the fact that if we didn’t position
+> ourselves in this way there would be no work for us, and I think so
+> many humanities institutions and humanities scholars are desperately
+> running towards AI ethics as a means of survival in a really hostile
+> landscape. And so to hear even the most successful of us—AI Now—is
+> struggling I think would be really shocking for a lot of people.
+
+MW: It’s shocking and emotionally very difficult. I think it’s actually
+not uncommon to see the people who may have been the strong dissenters
+fall away or be pushed out of a movement or space once the targets of
+such dissent get a handle on how to manage it. And in AI Now’s case, we
+were very strong critics. I brought everything I knew from a decade plus
+inside tech into that work, knowledge that isn’t easy to get in
+academia. And especially in the last year or so, we did not pull
+punches. We’re directly criticising Eric Schmidt in ways that go right
+for the money. I know why they don’t like us because we’ve been
+effective at flipping some of these scripts in ways that are
+inconvenient for people with a huge amount of capital, a huge amount of
+power. NYU is not going to take on Schmidt with me and a couple of
+foundations, who by the way were extremely supportive of us throughout.
+But they can cozy up to Schmidt by taking me out and silencing this
+work.
+
+JS: I feel like much of what we’ve discussed in this interview can be
+seen as something of a collection of open secrets in academia and
+industry. I think people working in these spaces see this capture and
+influence in action and we see its effects, direct and indirect, on the
+work we do and the organisations we work within. But even acknowledging
+that there’s a growing number of critical voices calling out these
+dynamics, it’s still much more common to not say anything at all. And I
+think that’s for a number of reasons. Perhaps we benefit from these
+relations or hope to one day. Or perhaps we don’t see anything wrong
+with the current arrangements or don’t see how things could be any
+different. Or perhaps we think it would just be professionally rude and
+personally uncomfortable to say something. Or, and I think rightfully
+so, we fear the career consequences of speaking out, as you’ve been
+talking about Meredith.
+
+ But considering all that then, how do we go about doing what needs to be done, and doing what you actually are doing in your work, which is confronting that dynamic of capture, co-optation, and compromise? How do we go about doing that in a way that is both head-on and immediate?
+
+MW: There’s a flip answer that is, in part, you do it by doing it. You
+say it by saying it and then you go to the bathroom and throw up. You
+just do it. But I think there is also… I felt that I had some kind of
+obligation to name this stuff because I had happened, through wild luck
+and the contingency of circumstance, to have been inside Google seeing
+it from one side and then in the type of elite academia that was
+encrusted with tech money. I was very well positioned to know how these
+flows of capital worked, and I had a front row seat
+
+ So I felt a duty to contribute what I knew, which is privileged information that is not visible from within academia for the most part, back into the hopper of knowledge. And if I didn’t do that, that’s not solidarity and it’s not actually using what I know and what my analysis has gained through these experiences to further any future I would want to be part of. If we don’t name the extent of the capture, if we don’t take seriously the task of mapping it, I think we’re in a really dangerous spot. It’s not like silence is going to keep us safe—the pyramid scheme is crumbling, and logging onto the academic gig work platform to low-bid against your colleagues for an adjunct teaching assignment is the future unless we change it. It’s the present already for too many. Acknowledging these dynamics is where organising can start. And it’s where we can begin to privilege comradery relationships over professional networking.
+ 
+Of course, this is hard and vulnerable. Especially so for adults who love to get A’s, for people who have built their sense of security and self-worth around their ability to collect accolades from people in positions of power.
+
+We also have to stand face to face with the stakes. Waged work is totalizing. People die for lack of a wage. People’s loved ones die. This is not exaggerating. Some people won’t be able to take the risk of putting themselves out there, nor should they—people with chronic health problems who need insurance, people on visas whose ability to work could be taken away, etc. We have to identify the solidarities we need, and the way academic struggles are interconnected with others. A robust social wage would really help with a lot of these problems. We wouldn’t be trying to like tweak funding disclosure paragraphs on fucking conference papers if we had secure work. We wouldn’t be gagging for funding at all, in the same way. So parts of our movement, of our organizing, needs to focus attention on these fundamentals, on making sure people can organize and take risks more safely. We want a world where people don’t face a choice between naming what is true and being able to afford insulin.
+
+[^14Sadowaski_1]: This interview was conducted before Meredith began her positions
+    as a Senior Advisor on AI at the U.S. Federal Trade Commission and
+    then as President of Signal.
+
+[^14Sadowaski_2]: ‘Up and to the right’ is a Silicon Valley expression to describe a
+    strong growth curve.
+
+[^14Sadowaski_3]: Food Not Bombs is an anti-capitalist, global social movement who
+    protests forms of manufactured waste and scarcity. The movement
+    focuses specifically on food waste, collecting discarded food items
+    and turning them into meals for the community.
+
+[^14Sadowaski_4]: An employee benefit scheme championed by Google that guarantees
+    employees can spend 20 percent of their time on self-directed side
+    projects.
+
+[^14Sadowaski_5]: Meredith Whittaker, ‘The Steep Cost of Capture’, *ACM
+    Interactions* 28. 6 (2021): 51–55.
+
+[^14Sadowaski_6]: For further discussion on Project maven, see Richardson in this
+    collection.
+
+[^14Sadowaski_7]: The Google ‘Walkout for Real Change’ was a series of synchronised
+    walkout events organised by Google employees in protest of claims of
+    sexual misconduct, gender inequality, and systemic racism. The
+    demonstrations took place in November 2018 and included over 20,000
+    employees worldwide.
