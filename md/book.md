@@ -10,15 +10,14 @@ INC Theory on Demand \#46
 
 **Economics of Virtue – The ethics of AI**
 
-Editor: Thao Phan
+Editors: Thao Phan, Jake Goldfein, Declan Kuch and Monique Mann
 
-Copy editor:
+Copy Editor:
 
-Cover Design:
+Cover Design: Katja van Stiphout 
 
 Design and EPUB development: Jasmin Leech
 
-Printing and binding: Tuijtel
 
 Published by the Institute of Network Cultures, Amsterdam 2022
 
@@ -41,9 +40,6 @@ Order a copy or download this publication for free at:
 Subscribe to the INC newsletter:
 [www.networkcultures.org/newsletter](http://www.networkcultures.org/newsletter)
 
-Subscribe to the INC Viral Image Culture newsletter:
-[www.networkcultures.org](http://www.networkcultures.org)
-
 This publication is licensed under the Creative Commons Attribution
 NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy
 of this license, visit
@@ -57,60 +53,65 @@ of this license, visit
 
 # Table of Contents
 
-Introduction: Economies of Virtue xx\
-Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann
 
-### Section I: Subjects xx
+ <a href='ch003.xhtml'>**Introduction**</a>
+<br/> Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann
+<br/> 
 
-Your Thoughts for a Penny? Capital, Complicity and AI Ethics xx
+### Section I: Subjects
 
-Corinne Cath and Os Keyes
+ <a href='ch005.xhtml'>**Your Thoughts for a Penny? Capital, Complicity and AI Ethics**</a>
+<br/> Corinne Cath and Os Keyes
 
-Extractivist Ethics xx
+ <a href='ch006.xhtml'>**Extractivist Ethics**</a>
+<br/> Sarah Pink
 
-Sarah Pink
-
-The Invention of “Ethical AI”: How Big Tech Manipulates Academia to
-Avoid Regulation xx
-
-Rodrigo Ochigame
-
-### Section II: Sites xx
-
-Ecocide isn’t Ethical: Political Ecology and Capitalist AI Ethics xx
-
-Sy Taffel, Laura Bedford and Monique Mann
-
-Everyday AI Ethics: From the Global to Local Through Facial Recognition
-xx
-
-Angela Daly
-
-Dining out on Data: Ethics, Value, and the Calculation of Risk Appetites
-xx
-
-Tsvetelina Hristova and Liam Magee
-
-Military Virtues and the Limits of ‘Ethics’ in AI Research xx
-
-Michael Richardson
-
-### Section III: Action xx
-
-‘Open Secrets’: An interview with Meredith Whittaker xx
-
-Interviewed by Jathan Sadowski and Thao Phan
-
-‘Dropouts’: An Interview with Lilu Irani, J. Khadijah Abdurahman and
-Alex Hanna xx
-
-Interviewed by Jake Goldenfein
+ <a href='ch007.xhtml'>**The Invention of “Ethical AI”: How Big Tech Manipulates Academia to
+Avoid Regulation**</a>
+<br/> Rodrigo Ochigame
 
 <br/> 
 
-Aknowledgements
+### Section II: Sites
 
-About the Authors
+ <a href='ch009.xhtml'>**Ecocide isn’t Ethical: Political Ecology and Capitalist AI Ethics**</a>
+<br/> Sy Taffel, Laura Bedford and Monique Mann
+
+ <a href='ch010.xhtml'>**Everyday AI Ethics: From the Global to Local Through Facial Recognition**</a>
+<br/> Angela Daly
+
+ <a href='ch011.xhtml'>**Dining out on Data: Ethics, Value, and the Calculation of Risk Appetites**</a>
+<br/> Tsvetelina Hristova and Liam Magee
+
+ <a href='ch012.xhtml'>**Military Virtues and the Limits of ‘Ethics’ in AI Research**</a>
+<br/> Michael Richardson
+
+<br/> 
+
+### Section III: Action
+
+ <a href='ch014.xhtml'>**‘Open Secrets’: An interview with Meredith Whittaker**</a>
+<br/> Interviewed by Jathan Sadowski and Thao Phan
+
+ <a href='ch015.xhtml'>**‘Dropouts’: An Interview with Lilu Irani, J. Khadijah Abdurahman and
+Alex Hanna**</a>
+<br/> Interviewed by Jake Goldenfein
+
+
+<br/> 
+ <a href='ch016.xhtml'>**Aknowledgements**</a>
+<br/>
+
+
+
+ <a href='ch017.xhtml'>**About the authors**</a>
+<br/>
+
+<br/> 
+
+
+
+
 
 
 
@@ -847,8 +848,7 @@ Racism*, New York: NYU Press, 2018.
 
 ———. ‘Google Search: Hyper-Visibility as a Means of Rendering Black
 Women and Girls Invisible—InVisible Culture’, *Invisible Culture*, no.
-19 (October 2013),
-https://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/.
+19 (October 2013),https://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/.
 
 ———. ‘Missed Connections: What Search Engines Say About Women.’ *Bitch*
 magazine, Spring 2012, https://www.bitchmedia.org/issue/54.
@@ -864,9 +864,7 @@ Culture*, 4 November 2021, 1–15.
 
 Powles, Julia, and Helen Nissenbaum. ‘The Seductive Diversion of
 ‘Solving’ Bias in Artificial Intelligence’, *OneZero* (blog), 7 December
-2018,
-
-https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53.
+2018,https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53.
 
 Rosenblat, Alex, and Tamara Kneese. ‘Algorithmic Accountability’, n.d.,
 6.
@@ -1046,7 +1044,7 @@ Korea: ACM, 2022.
 
 [^03Introduction_35]: L. Sweeney, ‘Discrimination in Online Ad Delivery: Google Ads,
     Black Names and White Names, Racial Discrimination, and Click
-    Advertising’, *Queue* 11 (3, 2013): 10–29. 8
+    Advertising’, *Queue* 11 (3, 2013): 10–29. 8.
 
 [^03Introduction_36]: K. Crawford, ‘The Hidden Biases in Big Data’, *Harvard Business
     Review*, 1 April 2013,
@@ -1065,9 +1063,9 @@ Korea: ACM, 2022.
     Racism*, NYU Press: New York City, 2013.
 
 [^03Introduction_39]: S. Barocas, and A. Selbst, ‘Big Data’s Disparate Impact’,
-    *California Law Review*, Vol. 104, No. 3, (June 2016): 671 - 732
+    *California Law Review*, Vol. 104, No. 3, (June 2016): 671 - 732.
 
-[^03Introduction_40]: https://civilrights.org/2014/02/27/civil-rights-principles-era-big-data/\#
+[^03Introduction_40]: https://civilrights.org/2014/02/27/civil-rights-principles-era-big-data.
 
 [^03Introduction_41]: Upturn, *Civil Rights, Big Data and Our Algorithmic Future: A
     September 2014 Report on Social Justice and Technology*, 2014,https://bigdata.fairness.io/wp-	content/uploads/2015/04/2015-04-20-Civil-Rights-Big-Data-and-Our-Algorithmic-Future-v1.2.pdf.
@@ -1087,8 +1085,7 @@ Korea: ACM, 2022.
 [^03Introduction_46]: Lily Hu, ‘Tech Ethics: Speaking Ethics to Power, or Power
     Speaking Ethics?’ *Journal of Social Computing* 2 (3, 2021): 243.
 
-[^03Introduction_47]: J. Khadijah Abdurahman, ‘On the Moral Collapse of AI Ethics’
-    *Medium* blog,8 December 2020,https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-	ethics-791cbc7df872.;Karen Hao, ‘A Leading AI Ethics Researcher Says She’s Been Fired from 	Google’, *MIT Technology Review*, 3 December 2020,https://www.technologyreview.com/	2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/;
+[^03Introduction_47]: J. Khadijah Abdurahman, ‘On the Moral Collapse of AI Ethics’ *Medium* blog,8 December 2020,https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-	ethics-791cbc7df872.;Karen Hao, ‘A Leading AI Ethics Researcher Says She’s Been Fired from 	Google’, *MIT Technology Review*, 3 December 2020,https://www.technologyreview.com/	2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/.
 
 [^03Introduction_48]: Whittaker, ‘The Steep Cost of Capture’.
 
@@ -3707,7 +3704,7 @@ no financial conflicts of interest to disclose.
 
 ## References
 
-[]{#_Hlk102657468 .anchor}ABC News, ‘PM defends his “technology not
+ABC News, ‘PM defends his “technology not
 taxes” approach to cutting emissions’, *ABC News*, 23 April 2021,
 https://www.abc.net.au/news/2021-04-23/pm-defends-his-technology-not-taxes-approach-to-emissions/13315616.
 
@@ -5449,7 +5446,7 @@ my salaried employment and outside of those hours. During writing this
 paper I hold and have held grants funded by UKRI but they did not
 support this paper.
 
-# References
+## References
 
 Ada Lovelace Institute. ‘Beyond Face Value: Public Attitudes to Facial
 Recognition technology’, 2019,
@@ -6096,7 +6093,6 @@ and Technology Law Review*, 22.2 (2021): 284–307.
     Martin, and Robert Pyper, ‘The Fragmentation of Public
     Administration: Differentiated and Decentered Governance in the
     (dis)United Kingdom’, *Public Administration* 100.1 (2022): 98–115.
-
 
 
 # Dining out on Data: Ethics, Value, and the Calculation of Risk Appetites
@@ -6817,7 +6813,7 @@ funding scheme of the Australian Research Council.
 
 ## References
 
-[]{#_2et92p0 .anchor}Akhigbe, A., Martin, A.D., and Whyte, A.M.
+Akhigbe, A., Martin, A.D., and Whyte, A.M.
 ‘Dodd–Frank and Risk in the Financial Services Industry’, *Review of
 Quantitative Finance and Accounting*, 47(2) (2016): 395–415.
 
@@ -6847,7 +6843,7 @@ Beck, U. *Risk Society: Towards a New Modernity*, trans. Ritter, M.,
 Newbury Park, CA: SAGE Publications, 1992.
 
 Bhabha, H.K. ‘Culture’s In-between’, in Hall, S. & du Gay, P. (eds)
-*Questions of Cultural Identity*, \[place: publisher\], 1996, pp. 53–60.
+*Questions of Cultural Identity*, \[CA: SAGE Publications], 1996, pp. 53–60.
 
 Birnhack, M. and Elkin-Koren, N. ‘The Invisible Handshake: The
 Reemergence of the State in the Digital Environment’, *SSRN Electronic
@@ -6891,7 +6887,7 @@ London: Verso Books, 2014.
 The National New Generation Artificial Intelligence Governance
 Specialist Committee. ‘Ethical Norms for New Generation Artificial
 Intelligence’, 2021, English translation available at:
-https://cset.georgetown.edu/wp-content/uploads/t0400\_AI\_ethical\_norms\_EN.pdf
+https://cset.georgetown.edu/wp-content/uploads/t0400\_AI\_ethical\_norms\_EN.pdf.
 
 Eubanks, V. *Automating Inequality: How High-Tech Tools Profile, Police,
 and Punish the Poor*, New York: St. Martin’s Press, 2018.
@@ -7119,13 +7115,12 @@ https://finance.yahoo.com/quote/BABA/.
 [^11Hristova_24]: C. Naden, ‘It’s All About Trust’, 2019,
     https://www.iso.org/news/ref2452.html.
 
-[^11Hristova_25]: Silverpond, ‘The Role of Ethics in AI Development, Implementation
-    and Governance’, 2021,
+[^11Hristova_25]: Silverpond, ‘The Role of Ethics in AI Development, Implementation and Governance’, 2021,
     https://silverpond.com.au/ai-community/australian-ai-ecosystem-survey/aurelie-jacquet-2020-2021-australian-ai-ecosystem-survey/.
 
 [^11Hristova_26]: Standards Australia, *An Artificial Intelligence Standards
     Roadmap: Making Australia’s Voice Heard. Final Report*, 2020, 35–36,
-    https://www.standards.org.au/getmedia/ede81912-55a2-4d8e-849f-9844993c3b9d/1515-An-Artificial-Intelligence-Standards-Roadmap12-02-2020.pdf.aspxhttps://www.standards.org.au/getmedia/ede81912-55a2-4d8e-849f-9844993c3b9d/1515-An-Artificial-Intelligence-Standards-Roadmap12-02-2020.pdf.aspx.
+    https://www.standards.org.au/getmedia/ede81912-55a2-4d8e-849f-9844993c3b9d 1515-An-Artificial-Intelligence-Standards-Roadmap12-02-2020.pdf.aspxhttps://www.standards.org.au/getmedia/ede81912-55a2-4d8e-849f-9844993c3b9d/1515-An-Artificial-Intelligence-Standards-Roadmap12-02-2020.pdf.aspx.
 
 [^11Hristova_27]: M. Cooper, ‘Experimental Labour—Offshoring Clinical Trials to
     China’, *East Asian Science, Technology and Society: An
@@ -8551,38 +8546,38 @@ tactic. All of this is what happens when you withdraw the social wage
 and implement a system of precarious labour that represents most
 academic work at this point.
 
-> I see this leading to a culture of sedimenting accomplishments and
-> acclaim, trying to out-succeed the forces of precarity and insecurity.
-> And it’s pernicious and has a lot in common with the ‘model minority
-> myth’ and the myth of the meritocracy, insofar as it reads
-> accomplishments and success as reliable metrics, and tries to
-> accumulate them in pursuit of status and standing that have more to do
-> with class and white supremacy than with ‘merit.’ And this impulse—to
-> get all As so you can get health insurance—is the enemy of organizing.
-> Organizing requires a workers’ consciousness, and it requires that we
-> get real with ourselves and each other as people and say this fucking
-> tower of accomplishment culture is not good for any of us. It makes us
-> into competitors not comrades—and oh yes, it’s not keeping us safe.
-> The people with power are not microcelebrities, they aren’t known,
-> they get the benefit of privacy and security. They don’t have to go
-> out there and dance just to get a quarter thrown at them from some
-> foundation in return for a promise to complete a bunch of
-> deliverables. And I should mention that this model is not true on the
-> right. The Kochs, the Mercers, the money flowing in from tech is
-> sizable, and it’s secure, and it’s not asking people to dance for
-> yearly funding. It’s funding them richly and letting them do their
-> thing, which happens to be convenient for those in power.
->
-> The whole thing is also set up also to create these burnout cycles
-> where you’re never quite secure enough to plant a taproot and sit down
-> and do work that is quiet and critical and takes a long time to
-> foment. Instead, we’re all chasing the latest buzzwords and hoping to
-> shove a round peg into a square hole so we can keep our people
-> employed. This produces work that doesn’t match the moment, to be
-> diplomatic about it. We saw this over the last five or so years with
-> everyone jumping on the ‘AI’ bandwagon, and justifiably so, because
-> that’s where there’s a smidgen of money that could hopefully keep the
-> roof over the humanities and social sciences.
+I see this leading to a culture of sedimenting accomplishments and
+acclaim, trying to out-succeed the forces of precarity and insecurity.
+And it’s pernicious and has a lot in common with the ‘model minority
+myth’ and the myth of the meritocracy, insofar as it reads
+accomplishments and success as reliable metrics, and tries to
+accumulate them in pursuit of status and standing that have more to do
+with class and white supremacy than with ‘merit.’ And this impulse—to
+get all As so you can get health insurance—is the enemy of organizing.
+Organizing requires a workers’ consciousness, and it requires that we
+get real with ourselves and each other as people and say this fucking
+tower of accomplishment culture is not good for any of us. It makes us
+into competitors not comrades—and oh yes, it’s not keeping us safe.
+The people with power are not microcelebrities, they aren’t known,
+they get the benefit of privacy and security. They don’t have to go
+out there and dance just to get a quarter thrown at them from some
+foundation in return for a promise to complete a bunch of
+deliverables. And I should mention that this model is not true on the
+right. The Kochs, the Mercers, the money flowing in from tech is
+sizable, and it’s secure, and it’s not asking people to dance for
+yearly funding. It’s funding them richly and letting them do their
+thing, which happens to be convenient for those in power.
+
+The whole thing is also set up also to create these burnout cycles
+where you’re never quite secure enough to plant a taproot and sit down
+and do work that is quiet and critical and takes a long time to
+foment. Instead, we’re all chasing the latest buzzwords and hoping to
+shove a round peg into a square hole so we can keep our people
+employed. This produces work that doesn’t match the moment, to be
+diplomatic about it. We saw this over the last five or so years with
+everyone jumping on the ‘AI’ bandwagon, and justifiably so, because
+that’s where there’s a smidgen of money that could hopefully keep the
+roof over the humanities and social sciences.
 
 TP: I’m so glad you said that. I think so many people would be so
 shocked to hear that AI Now is struggling within its own institution.
@@ -8591,12 +8586,12 @@ and ethics is so hot right now and one of the few places in the
 humanities where you can get a job. Both Jathan and I, are employed in
 one of these ‘AI for social good’ type centres.
 
-> We’re coming to terms with the fact that if we didn’t position
-> ourselves in this way there would be no work for us, and I think so
-> many humanities institutions and humanities scholars are desperately
-> running towards AI ethics as a means of survival in a really hostile
-> landscape. And so to hear even the most successful of us—AI Now—is
-> struggling I think would be really shocking for a lot of people.
+We’re coming to terms with the fact that if we didn’t position
+ourselves in this way there would be no work for us, and I think so
+many humanities institutions and humanities scholars are desperately
+running towards AI ethics as a means of survival in a really hostile
+landscape. And so to hear even the most successful of us—AI Now—is
+struggling I think would be really shocking for a lot of people.
 
 MW: It’s shocking and emotionally very difficult. I think it’s actually
 not uncommon to see the people who may have been the strong dissenters
@@ -9222,14 +9217,15 @@ March. 2021.
 [^15Goldenfein_17]: Christo Wilson et al., ‘Building and Auditing Fair Algorithms: A
     Case Study in Candidate Screening’, Proceedings of the FAccT
     Conference, Virtual Event, Canada, 1–10 March 2021.
+<br/> 
 
 
-## Acknowledgements
+# Acknowledgements
 
 There have been so many wonderful people who have helped us to bring this collection to life. The brilliant authors for not only contributing their time but for generously diving into the experimental “collective review” process. To Geert Lovink for his patience and support of our project, and for his commitment and vision to modes of publication that subvert the constraining norms of academic practice. To the editors and reviewers at *Science as Culture*, in particular Kean Birch and Kelly Bronson who edited its ‘Forum on Big Tech’ where we initially published on the ‘economy of virtue.’ To Elena Gomez for her swift and incisive editing. To the presenters who joined us at our first Economies of Virtue workshop in July 2021: Angela Daly, Sarah Pink, Brett Neilson, Mark Andrejevic, Julia Powles, Sy Taffel, Winifred Poster, Tsvetelina Hristova, Michael Richardson, Tanja Dreher, and Ed Santow. To Emma Kowal for her support and guidance in helping us to apply for the Academy of the Social Sciences in Australia workshop program grant. And finally, to the many interlocutors who have generously held conversations with us and more as we explored this thorny topic, especially Seth Lazar, Kate Devitt, Christine Parker, and Julia Powles. 
 
 
-# Contributor Biographies
+#Contributor Biographies
 
 **J. Khadijah Abdurahman** (they/them/any) is an abolitionist whose
 research focus is predictive risk modeling in the New York City child

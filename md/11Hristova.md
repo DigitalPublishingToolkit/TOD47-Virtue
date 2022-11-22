@@ -735,7 +735,7 @@ funding scheme of the Australian Research Council.
 
 ## References
 
-[]{#_2et92p0 .anchor}Akhigbe, A., Martin, A.D., and Whyte, A.M.
+Akhigbe, A., Martin, A.D., and Whyte, A.M.
 ‘Dodd–Frank and Risk in the Financial Services Industry’, *Review of
 Quantitative Finance and Accounting*, 47(2) (2016): 395–415.
 
@@ -765,7 +765,7 @@ Beck, U. *Risk Society: Towards a New Modernity*, trans. Ritter, M.,
 Newbury Park, CA: SAGE Publications, 1992.
 
 Bhabha, H.K. ‘Culture’s In-between’, in Hall, S. & du Gay, P. (eds)
-*Questions of Cultural Identity*, \[place: publisher\], 1996, pp. 53–60.
+*Questions of Cultural Identity*, \[CA: SAGE Publications], 1996, pp. 53–60.
 
 Birnhack, M. and Elkin-Koren, N. ‘The Invisible Handshake: The
 Reemergence of the State in the Digital Environment’, *SSRN Electronic
@@ -809,7 +809,7 @@ London: Verso Books, 2014.
 The National New Generation Artificial Intelligence Governance
 Specialist Committee. ‘Ethical Norms for New Generation Artificial
 Intelligence’, 2021, English translation available at:
-https://cset.georgetown.edu/wp-content/uploads/t0400\_AI\_ethical\_norms\_EN.pdf
+https://cset.georgetown.edu/wp-content/uploads/t0400\_AI\_ethical\_norms\_EN.pdf.
 
 Eubanks, V. *Automating Inequality: How High-Tech Tools Profile, Police,
 and Punish the Poor*, New York: St. Martin’s Press, 2018.
@@ -1037,13 +1037,12 @@ https://finance.yahoo.com/quote/BABA/.
 [^11Hristova_24]: C. Naden, ‘It’s All About Trust’, 2019,
     https://www.iso.org/news/ref2452.html.
 
-[^11Hristova_25]: Silverpond, ‘The Role of Ethics in AI Development, Implementation
-    and Governance’, 2021,
+[^11Hristova_25]: Silverpond, ‘The Role of Ethics in AI Development, Implementation and Governance’, 2021,
     https://silverpond.com.au/ai-community/australian-ai-ecosystem-survey/aurelie-jacquet-2020-2021-australian-ai-ecosystem-survey/.
 
 [^11Hristova_26]: Standards Australia, *An Artificial Intelligence Standards
     Roadmap: Making Australia’s Voice Heard. Final Report*, 2020, 35–36,
-    https://www.standards.org.au/getmedia/ede81912-55a2-4d8e-849f-9844993c3b9d/1515-An-Artificial-Intelligence-Standards-Roadmap12-02-2020.pdf.aspxhttps://www.standards.org.au/getmedia/ede81912-55a2-4d8e-849f-9844993c3b9d/1515-An-Artificial-Intelligence-Standards-Roadmap12-02-2020.pdf.aspx.
+    https://www.standards.org.au/getmedia/ede81912-55a2-4d8e-849f-9844993c3b9d 1515-An-Artificial-Intelligence-Standards-Roadmap12-02-2020.pdf.aspxhttps://www.standards.org.au/getmedia/ede81912-55a2-4d8e-849f-9844993c3b9d/1515-An-Artificial-Intelligence-Standards-Roadmap12-02-2020.pdf.aspx.
 
 [^11Hristova_27]: M. Cooper, ‘Experimental Labour—Offshoring Clinical Trials to
     China’, *East Asian Science, Technology and Society: An

@@ -714,7 +714,7 @@ my salaried employment and outside of those hours. During writing this
 paper I hold and have held grants funded by UKRI but they did not
 support this paper.
 
-# References
+## References
 
 Ada Lovelace Institute. ‘Beyond Face Value: Public Attitudes to Facial
 Recognition technology’, 2019,

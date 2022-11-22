@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Contributor Biographies
+#Contributor Biographies
 
 **J. Khadijah Abdurahman** (they/them/any) is an abolitionist whose
 research focus is predictive risk modeling in the New York City child

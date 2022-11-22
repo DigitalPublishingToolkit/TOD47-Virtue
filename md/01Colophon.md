@@ -21,15 +21,14 @@ INC Theory on Demand \#46
 
 **Economics of Virtue – The ethics of AI**
 
-Editor: Thao Phan
+Editors: Thao Phan, Jake Goldfein, Declan Kuch and Monique Mann
 
-Copy editor:
+Copy Editor:
 
-Cover Design:
+Cover Design: Katja van Stiphout 
 
 Design and EPUB development: Jasmin Leech
 
-Printing and binding: Tuijtel
 
 Published by the Institute of Network Cultures, Amsterdam 2022
 
@@ -51,9 +50,6 @@ Order a copy or download this publication for free at:
 
 Subscribe to the INC newsletter:
 [www.networkcultures.org/newsletter](http://www.networkcultures.org/newsletter)
-
-Subscribe to the INC Viral Image Culture newsletter:
-[www.networkcultures.org](http://www.networkcultures.org)
 
 This publication is licensed under the Creative Commons Attribution
 NonCommercial ShareAlike 4.0 Unported (CC BY-NC-SA 4.0). To view a copy

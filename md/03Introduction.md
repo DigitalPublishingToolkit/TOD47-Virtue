@@ -750,8 +750,7 @@ Racism*, New York: NYU Press, 2018.
 
 ———. ‘Google Search: Hyper-Visibility as a Means of Rendering Black
 Women and Girls Invisible—InVisible Culture’, *Invisible Culture*, no.
-19 (October 2013),
-https://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/.
+19 (October 2013),https://ivc.lib.rochester.edu/google-search-hyper-visibility-as-a-means-of-rendering-black-women-and-girls-invisible/.
 
 ———. ‘Missed Connections: What Search Engines Say About Women.’ *Bitch*
 magazine, Spring 2012, https://www.bitchmedia.org/issue/54.
@@ -767,9 +766,7 @@ Culture*, 4 November 2021, 1–15.
 
 Powles, Julia, and Helen Nissenbaum. ‘The Seductive Diversion of
 ‘Solving’ Bias in Artificial Intelligence’, *OneZero* (blog), 7 December
-2018,
-
-https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53.
+2018,https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53.
 
 Rosenblat, Alex, and Tamara Kneese. ‘Algorithmic Accountability’, n.d.,
 6.
@@ -949,7 +946,7 @@ Korea: ACM, 2022.
 
 [^03Introduction_35]: L. Sweeney, ‘Discrimination in Online Ad Delivery: Google Ads,
     Black Names and White Names, Racial Discrimination, and Click
-    Advertising’, *Queue* 11 (3, 2013): 10–29. 8
+    Advertising’, *Queue* 11 (3, 2013): 10–29. 8.
 
 [^03Introduction_36]: K. Crawford, ‘The Hidden Biases in Big Data’, *Harvard Business
     Review*, 1 April 2013,
@@ -968,9 +965,9 @@ Korea: ACM, 2022.
     Racism*, NYU Press: New York City, 2013.
 
 [^03Introduction_39]: S. Barocas, and A. Selbst, ‘Big Data’s Disparate Impact’,
-    *California Law Review*, Vol. 104, No. 3, (June 2016): 671 - 732
+    *California Law Review*, Vol. 104, No. 3, (June 2016): 671 - 732.
 
-[^03Introduction_40]: https://civilrights.org/2014/02/27/civil-rights-principles-era-big-data/\#
+[^03Introduction_40]: https://civilrights.org/2014/02/27/civil-rights-principles-era-big-data.
 
 [^03Introduction_41]: Upturn, *Civil Rights, Big Data and Our Algorithmic Future: A
     September 2014 Report on Social Justice and Technology*, 2014,https://bigdata.fairness.io/wp-	content/uploads/2015/04/2015-04-20-Civil-Rights-Big-Data-and-Our-Algorithmic-Future-v1.2.pdf.
@@ -990,8 +987,7 @@ Korea: ACM, 2022.
 [^03Introduction_46]: Lily Hu, ‘Tech Ethics: Speaking Ethics to Power, or Power
     Speaking Ethics?’ *Journal of Social Computing* 2 (3, 2021): 243.
 
-[^03Introduction_47]: J. Khadijah Abdurahman, ‘On the Moral Collapse of AI Ethics’
-    *Medium* blog,8 December 2020,https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-	ethics-791cbc7df872.;Karen Hao, ‘A Leading AI Ethics Researcher Says She’s Been Fired from 	Google’, *MIT Technology Review*, 3 December 2020,https://www.technologyreview.com/	2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/;
+[^03Introduction_47]: J. Khadijah Abdurahman, ‘On the Moral Collapse of AI Ethics’ *Medium* blog,8 December 2020,https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-	ethics-791cbc7df872.;Karen Hao, ‘A Leading AI Ethics Researcher Says She’s Been Fired from 	Google’, *MIT Technology Review*, 3 December 2020,https://www.technologyreview.com/	2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/.
 
 [^03Introduction_48]: Whittaker, ‘The Steep Cost of Capture’.
 

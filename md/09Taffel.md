@@ -674,7 +674,7 @@ no financial conflicts of interest to disclose.
 
 ## References
 
-[]{#_Hlk102657468 .anchor}ABC News, ‘PM defends his “technology not
+ABC News, ‘PM defends his “technology not
 taxes” approach to cutting emissions’, *ABC News*, 23 April 2021,
 https://www.abc.net.au/news/2021-04-23/pm-defends-his-technology-not-taxes-approach-to-emissions/13315616.
 

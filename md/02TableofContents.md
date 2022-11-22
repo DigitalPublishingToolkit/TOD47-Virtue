@@ -19,57 +19,62 @@ Rights: CC BY-NC 4.0
 
 # Table of Contents
 
-Introduction: Economies of Virtue xx\
-Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann
 
-### Section I: Subjects xx
+ <a href='ch003.xhtml'>**Introduction**</a>
+<br/> Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann
+<br/> 
 
-Your Thoughts for a Penny? Capital, Complicity and AI Ethics xx
+### Section I: Subjects
 
-Corinne Cath and Os Keyes
+ <a href='ch005.xhtml'>**Your Thoughts for a Penny? Capital, Complicity and AI Ethics**</a>
+<br/> Corinne Cath and Os Keyes
 
-Extractivist Ethics xx
+ <a href='ch006.xhtml'>**Extractivist Ethics**</a>
+<br/> Sarah Pink
 
-Sarah Pink
-
-The Invention of “Ethical AI”: How Big Tech Manipulates Academia to
-Avoid Regulation xx
-
-Rodrigo Ochigame
-
-### Section II: Sites xx
-
-Ecocide isn’t Ethical: Political Ecology and Capitalist AI Ethics xx
-
-Sy Taffel, Laura Bedford and Monique Mann
-
-Everyday AI Ethics: From the Global to Local Through Facial Recognition
-xx
-
-Angela Daly
-
-Dining out on Data: Ethics, Value, and the Calculation of Risk Appetites
-xx
-
-Tsvetelina Hristova and Liam Magee
-
-Military Virtues and the Limits of ‘Ethics’ in AI Research xx
-
-Michael Richardson
-
-### Section III: Action xx
-
-‘Open Secrets’: An interview with Meredith Whittaker xx
-
-Interviewed by Jathan Sadowski and Thao Phan
-
-‘Dropouts’: An Interview with Lilu Irani, J. Khadijah Abdurahman and
-Alex Hanna xx
-
-Interviewed by Jake Goldenfein
+ <a href='ch007.xhtml'>**The Invention of “Ethical AI”: How Big Tech Manipulates Academia to
+Avoid Regulation**</a>
+<br/> Rodrigo Ochigame
 
 <br/> 
 
-Aknowledgements
+### Section II: Sites
 
-About the Authors
+ <a href='ch009.xhtml'>**Ecocide isn’t Ethical: Political Ecology and Capitalist AI Ethics**</a>
+<br/> Sy Taffel, Laura Bedford and Monique Mann
+
+ <a href='ch010.xhtml'>**Everyday AI Ethics: From the Global to Local Through Facial Recognition**</a>
+<br/> Angela Daly
+
+ <a href='ch011.xhtml'>**Dining out on Data: Ethics, Value, and the Calculation of Risk Appetites**</a>
+<br/> Tsvetelina Hristova and Liam Magee
+
+ <a href='ch012.xhtml'>**Military Virtues and the Limits of ‘Ethics’ in AI Research**</a>
+<br/> Michael Richardson
+
+<br/> 
+
+### Section III: Action
+
+ <a href='ch014.xhtml'>**‘Open Secrets’: An interview with Meredith Whittaker**</a>
+<br/> Interviewed by Jathan Sadowski and Thao Phan
+
+ <a href='ch015.xhtml'>**‘Dropouts’: An Interview with Lilu Irani, J. Khadijah Abdurahman and
+Alex Hanna**</a>
+<br/> Interviewed by Jake Goldenfein
+
+
+<br/> 
+ <a href='ch016.xhtml'>**Aknowledgements**</a>
+<br/>
+
+
+
+ <a href='ch017.xhtml'>**About the authors**</a>
+<br/>
+
+<br/> 
+
+
+
+

@@ -452,38 +452,38 @@ tactic. All of this is what happens when you withdraw the social wage
 and implement a system of precarious labour that represents most
 academic work at this point.
 
-> I see this leading to a culture of sedimenting accomplishments and
-> acclaim, trying to out-succeed the forces of precarity and insecurity.
-> And it’s pernicious and has a lot in common with the ‘model minority
-> myth’ and the myth of the meritocracy, insofar as it reads
-> accomplishments and success as reliable metrics, and tries to
-> accumulate them in pursuit of status and standing that have more to do
-> with class and white supremacy than with ‘merit.’ And this impulse—to
-> get all As so you can get health insurance—is the enemy of organizing.
-> Organizing requires a workers’ consciousness, and it requires that we
-> get real with ourselves and each other as people and say this fucking
-> tower of accomplishment culture is not good for any of us. It makes us
-> into competitors not comrades—and oh yes, it’s not keeping us safe.
-> The people with power are not microcelebrities, they aren’t known,
-> they get the benefit of privacy and security. They don’t have to go
-> out there and dance just to get a quarter thrown at them from some
-> foundation in return for a promise to complete a bunch of
-> deliverables. And I should mention that this model is not true on the
-> right. The Kochs, the Mercers, the money flowing in from tech is
-> sizable, and it’s secure, and it’s not asking people to dance for
-> yearly funding. It’s funding them richly and letting them do their
-> thing, which happens to be convenient for those in power.
->
-> The whole thing is also set up also to create these burnout cycles
-> where you’re never quite secure enough to plant a taproot and sit down
-> and do work that is quiet and critical and takes a long time to
-> foment. Instead, we’re all chasing the latest buzzwords and hoping to
-> shove a round peg into a square hole so we can keep our people
-> employed. This produces work that doesn’t match the moment, to be
-> diplomatic about it. We saw this over the last five or so years with
-> everyone jumping on the ‘AI’ bandwagon, and justifiably so, because
-> that’s where there’s a smidgen of money that could hopefully keep the
-> roof over the humanities and social sciences.
+I see this leading to a culture of sedimenting accomplishments and
+acclaim, trying to out-succeed the forces of precarity and insecurity.
+And it’s pernicious and has a lot in common with the ‘model minority
+myth’ and the myth of the meritocracy, insofar as it reads
+accomplishments and success as reliable metrics, and tries to
+accumulate them in pursuit of status and standing that have more to do
+with class and white supremacy than with ‘merit.’ And this impulse—to
+get all As so you can get health insurance—is the enemy of organizing.
+Organizing requires a workers’ consciousness, and it requires that we
+get real with ourselves and each other as people and say this fucking
+tower of accomplishment culture is not good for any of us. It makes us
+into competitors not comrades—and oh yes, it’s not keeping us safe.
+The people with power are not microcelebrities, they aren’t known,
+they get the benefit of privacy and security. They don’t have to go
+out there and dance just to get a quarter thrown at them from some
+foundation in return for a promise to complete a bunch of
+deliverables. And I should mention that this model is not true on the
+right. The Kochs, the Mercers, the money flowing in from tech is
+sizable, and it’s secure, and it’s not asking people to dance for
+yearly funding. It’s funding them richly and letting them do their
+thing, which happens to be convenient for those in power.
+
+The whole thing is also set up also to create these burnout cycles
+where you’re never quite secure enough to plant a taproot and sit down
+and do work that is quiet and critical and takes a long time to
+foment. Instead, we’re all chasing the latest buzzwords and hoping to
+shove a round peg into a square hole so we can keep our people
+employed. This produces work that doesn’t match the moment, to be
+diplomatic about it. We saw this over the last five or so years with
+everyone jumping on the ‘AI’ bandwagon, and justifiably so, because
+that’s where there’s a smidgen of money that could hopefully keep the
+roof over the humanities and social sciences.
 
 TP: I’m so glad you said that. I think so many people would be so
 shocked to hear that AI Now is struggling within its own institution.
@@ -492,12 +492,12 @@ and ethics is so hot right now and one of the few places in the
 humanities where you can get a job. Both Jathan and I, are employed in
 one of these ‘AI for social good’ type centres.
 
-> We’re coming to terms with the fact that if we didn’t position
-> ourselves in this way there would be no work for us, and I think so
-> many humanities institutions and humanities scholars are desperately
-> running towards AI ethics as a means of survival in a really hostile
-> landscape. And so to hear even the most successful of us—AI Now—is
-> struggling I think would be really shocking for a lot of people.
+We’re coming to terms with the fact that if we didn’t position
+ourselves in this way there would be no work for us, and I think so
+many humanities institutions and humanities scholars are desperately
+running towards AI ethics as a means of survival in a really hostile
+landscape. And so to hear even the most successful of us—AI Now—is
+struggling I think would be really shocking for a lot of people.
 
 MW: It’s shocking and emotionally very difficult. I think it’s actually
 not uncommon to see the people who may have been the strong dissenters
