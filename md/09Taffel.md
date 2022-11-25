@@ -146,7 +146,7 @@ political ecology, we add our voices to accounts which critique AI
 ethics as ethics-washing and/or greenwashing, instead contending that
 the focus needs to shift towards structural issues of power.[^09Taffel_22]
 
-##  (not-so) Green AI
+##  (Not-so) Green AI
 
 AI is resource-intensive in ways that are often overlooked. Recent
 debates surrounding AI, ethics and sustainability have largely focused

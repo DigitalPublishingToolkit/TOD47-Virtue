@@ -622,7 +622,7 @@ Artificial Intelligence* published by the Chinese government in late
 ethical production and supply of AI—rules that can be interpreted in
 various ways but indicating regardless mixed political and economic
 agendas that underpin the understanding of what ethics is.
-[]{#_Hlk115431025 .anchor}While the effects of this and other Chinese
+While the effects of this and other Chinese
 state actions has led to a withering away of the market capitalization
 of firms like Alibaba,[^11Hristova_42] they seem directed as much to the alignment
 of corporate with state interests—in for example the ‘self-sufficiency’

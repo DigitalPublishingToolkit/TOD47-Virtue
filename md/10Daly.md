@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Everyday AI Ethics: From the Global to Local Through Facial Recognition
 
-### Angela Daly – University of Dundee, Scotland
+### Angela Daly 
 
 ## Introduction
 

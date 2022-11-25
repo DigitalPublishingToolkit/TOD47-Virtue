@@ -12,7 +12,7 @@ INC Theory on Demand \#46
 
 Editors: Thao Phan, Jake Goldfein, Declan Kuch and Monique Mann
 
-Copy Editor:
+Copy Editor: Elena Gomez
 
 Cover Design: Katja van Stiphout 
 
@@ -2059,7 +2059,6 @@ Whittaker, Meredith. ‘The Steep Cost of Capture’, *Interactions*, 28.6
     https://logicmag.io/the-making-of-the-tech-worker-movement/.
 
 
-
 # Extractivist Ethics
 
 ### Sarah Pink
@@ -3176,7 +3175,7 @@ political ecology, we add our voices to accounts which critique AI
 ethics as ethics-washing and/or greenwashing, instead contending that
 the focus needs to shift towards structural issues of power.[^09Taffel_22]
 
-##  (not-so) Green AI
+##  (Not-so) Green AI
 
 AI is resource-intensive in ways that are often overlooked. Recent
 debates surrounding AI, ethics and sustainability have largely focused
@@ -4751,7 +4750,7 @@ Zhang, John, and Hoshino, Kazunori. *Molecular Sensors and Nanodevices*
 
 # Everyday AI Ethics: From the Global to Local Through Facial Recognition
 
-### Angela Daly – University of Dundee, Scotland
+### Angela Daly 
 
 ## Introduction
 
@@ -6700,7 +6699,7 @@ Artificial Intelligence* published by the Chinese government in late
 ethical production and supply of AI—rules that can be interpreted in
 various ways but indicating regardless mixed political and economic
 agendas that underpin the understanding of what ethics is.
-[]{#_Hlk115431025 .anchor}While the effects of this and other Chinese
+While the effects of this and other Chinese
 state actions has led to a withering away of the market capitalization
 of firms like Alibaba,[^11Hristova_42] they seem directed as much to the alignment
 of corporate with state interests—in for example the ‘self-sufficiency’
@@ -9106,7 +9105,7 @@ institutional imperatives and academic freedom, and who we ultimately
 owe duties to. I can’t thank all you enough for really reminding us all
 of what’s at stake.
 
-## Works Cited
+## References
 
 Abdurahman, J. Khadijah. ‘On the Moral Collapse of AI Ethics’ *Medium*
 blog,8 December 2020,

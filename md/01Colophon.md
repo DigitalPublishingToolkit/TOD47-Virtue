@@ -23,7 +23,7 @@ INC Theory on Demand \#46
 
 Editors: Thao Phan, Jake Goldfein, Declan Kuch and Monique Mann
 
-Copy Editor:
+Copy Editor: Elena Gomez
 
 Cover Design: Katja van Stiphout 
 

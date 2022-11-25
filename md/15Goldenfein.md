@@ -452,7 +452,7 @@ institutional imperatives and academic freedom, and who we ultimately
 owe duties to. I can’t thank all you enough for really reminding us all
 of what’s at stake.
 
-## Works Cited
+## References
 
 Abdurahman, J. Khadijah. ‘On the Moral Collapse of AI Ethics’ *Medium*
 blog,8 December 2020,
