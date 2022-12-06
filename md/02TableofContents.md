@@ -20,7 +20,7 @@ Rights: CC BY-NC 4.0
 # Table of Contents
 
 
- <a href='ch003.xhtml'>**Introduction**</a>
+ <a href='ch003.xhtml'>**Introduction: Economies of Virtue**</a>
 <br/> Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann
 <br/> 
 
@@ -32,8 +32,8 @@ Rights: CC BY-NC 4.0
  <a href='ch006.xhtml'>**Extractivist Ethics**</a>
 <br/> Sarah Pink
 
- <a href='ch007.xhtml'>**The Invention of “Ethical AI”: How Big Tech Manipulates Academia to
-Avoid Regulation**</a>
+ <a href='ch007.xhtml'>**The Invention of 'Ethical AI': How Big Tech Manipulates Academia to
+Avoid Regulation** *[Reprint]*</a>
 <br/> Rodrigo Ochigame
 
 <br/> 

@@ -19,4 +19,4 @@ Rights: CC BY-NC 4.0
 
 # Economies of Virtue 
 
-## The ethics of AI
+## THE CIRCULATION OF 'ETHICS' IN AI

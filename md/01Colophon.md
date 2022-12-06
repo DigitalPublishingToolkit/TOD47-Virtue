@@ -18,7 +18,6 @@ Rights: CC BY-NC 4.0
 
 
 INC Theory on Demand \#46
-
 **Economics of Virtue – The ethics of AI**
 
 Editors: Thao Phan, Jake Goldfein, Declan Kuch and Monique Mann
