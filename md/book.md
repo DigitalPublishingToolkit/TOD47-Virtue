@@ -2,12 +2,12 @@
 
 # Economies of Virtue 
 
-## The ethics of AI
+## THE CIRCULATION OF 'ETHICS' IN AI
+
 
 
 
 INC Theory on Demand \#46
-
 **Economics of Virtue – The ethics of AI**
 
 Editors: Thao Phan, Jake Goldfein, Declan Kuch and Monique Mann
@@ -54,7 +54,7 @@ of this license, visit
 # Table of Contents
 
 
- <a href='ch003.xhtml'>**Introduction**</a>
+ <a href='ch003.xhtml'>**Introduction: Economies of Virtue**</a>
 <br/> Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann
 <br/> 
 
@@ -66,15 +66,15 @@ of this license, visit
  <a href='ch006.xhtml'>**Extractivist Ethics**</a>
 <br/> Sarah Pink
 
- <a href='ch007.xhtml'>**The Invention of “Ethical AI”: How Big Tech Manipulates Academia to
-Avoid Regulation**</a>
+ <a href='ch007.xhtml'>**The Invention of 'Ethical AI': How Big Tech Manipulates Academia to
+Avoid Regulation** *[Reprint]*</a>
 <br/> Rodrigo Ochigame
 
 <br/> 
 
 ### Section II: Sites
 
- <a href='ch009.xhtml'>**Ecocide isn’t Ethical: Political Ecology and Capitalist AI Ethics**</a>
+ <a href='ch009.xhtml'>**Ecocide Isn’t Ethical: Political Ecology and Capitalist AI Ethics**</a>
 <br/> Sy Taffel, Laura Bedford and Monique Mann
 
  <a href='ch010.xhtml'>**Everyday AI Ethics: From the Global to Local Through Facial Recognition**</a>
@@ -90,21 +90,21 @@ Avoid Regulation**</a>
 
 ### Section III: Action
 
- <a href='ch014.xhtml'>**‘Open Secrets’: An interview with Meredith Whittaker**</a>
+ <a href='ch014.xhtml'>**‘Open Secrets’: An Interview with Meredith Whittaker**</a>
 <br/> Interviewed by Jathan Sadowski and Thao Phan
 
- <a href='ch015.xhtml'>**‘Dropouts’: An Interview with Lilu Irani, J. Khadijah Abdurahman and
+ <a href='ch015.xhtml'>**‘Dropouts’: An Interview with Lily Irani, J. Khadijah Abdurahman and
 Alex Hanna**</a>
 <br/> Interviewed by Jake Goldenfein
 
 
 <br/> 
- <a href='ch016.xhtml'>**Aknowledgements**</a>
+ <a href='ch016.xhtml'>**Acknowledgements**</a>
 <br/>
 
 
 
- <a href='ch017.xhtml'>**About the authors**</a>
+ <a href='ch017.xhtml'>**Contributor Biographies**</a>
 <br/>
 
 <br/> 
@@ -115,7 +115,7 @@ Alex Hanna**</a>
 
 
 
-# Economies of Virtue
+# Introduction: Economies of Virtue
 
 ### Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann
 
@@ -538,7 +538,7 @@ therefore less amenable to the forms of capture and investment, at least
 as industry actors would imagine it.
 
 In the final essay in this section, Rodrigo Ochigame describes the
-framing of ethics as a kind of ‘amicable criticism’ that ‘can serve as a
+framing of ethics as a kind of ‘amicable criticism’ that can serve as a
 ‘leverage for entering into business relationships.’ Like Cath and
 Keyes, he describes his time as a graduate student researcher working in
 the AI ethics groups the MIT Media Lab. He provides candid commentary on
@@ -822,7 +822,7 @@ Ethics Council, So We Made One for You’, *MIT Technology Review* (blog),
 8 April 2019,
 https://medium.com/mit-technology-review/hey-google-sorry-you-lost-your-ethics-council-so-we-made-one-for-you-28ee6c33576a.
 
-Manjoo, F. ‘Silicon Valley Has an Arrogance Problem—WSJ’, *Wall Street
+Manjoo, Farhad. ‘Silicon Valley Has an Arrogance Problem—WSJ’, *Wall Street
 Journal*, 3 November 2013,
 https://www.wsj.com/articles/SB10001424052702303661404579175712015473766.
 
@@ -917,7 +917,7 @@ Korea: ACM, 2022.
     *Science as Culture*, 4 November 2021, 1–15.
 
 [^03Introduction_4]: Meredith Whittaker, ‘The Steep Cost of Capture’, *Interactions*
-    28, no. 6 (2021): 50–5.
+    28, (6, 2021): 50–5.
 
 [^03Introduction_5]: See, for example, Abeba Birhane, Elayne Ruane, Thomas Laurent,
     Matthew S. Brown, Johnathan Flowers, Anthony Ventresque, and
@@ -943,7 +943,7 @@ Korea: ACM, 2022.
 
 [^03Introduction_9]: Rashida Richardson in Bobbie Johnson and Gideon Lichfield, ‘Hey
     Google, Sorry You Lost Your Ethics Council, So We Made One for You’,
-    *MIT Technology Review* blog, 8 April 2019.
+    *MIT Technology Review* blog, 8 April 2019,
     https://medium.com/mit-technology-review/hey-google-sorry-you-lost-your-ethics-council-so-we-made-one-for-you-28ee6c33576a.
 
 [^03Introduction_10]: Jake Metcalf in Johnson & Lichfield, ‘Hey Google, Sorry You Lost
@@ -954,11 +954,11 @@ Korea: ACM, 2022.
 
 [^03Introduction_12]: Julia Powles and Helen Nissenbaum, ‘The Seductive Diversion of
     ‘Solving’ Bias in Artificial Intelligence’, *OneZero* blog, 7
-    December 2018.
+    December 2018,
     https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53.
 
 [^03Introduction_13]: Lily Hu, ‘Tech Ethics: Speaking Ethics to Power, or Power
-    Speaking Ethics?’ *Journal of Social Computing* 2 (3, 2021): 240.
+    Speaking Ethics?’ *Journal of Social Computing,* 2 (3, 2021): 240.
 
 [^03Introduction_14]: Luke Munn, ‘The Uselessness of AI Ethics’, *AI and Ethics*, 23
     August 2022: n.p.
@@ -978,7 +978,7 @@ Korea: ACM, 2022.
     Report: Discovery Early Career Research Award 2022 | Australian
     Research Council,’ Australian Government | Australian Research
     Council, 2022.
-    https://www.arc.gov.au/funding-research/funding-outcome/selection-outcome-reports/selection-report-discovery-early-career-research-award-2022.).
+    https://www.arc.gov.au/funding-research/funding-outcome/selection-outcome-reports/selection-report-discovery-early-career-research-award-2022).
     For further discussion on the Australian Research Council and
     funding see Richardson’s chapter in this volume.
 
@@ -1028,33 +1028,33 @@ Korea: ACM, 2022.
     For further discussion on this slogan, see ‘Open Secrets’ in this
     volume.
 
-[^03Introduction_31]: F. Turner, *From Counterculture to Cyberculture*, University of
-    Chicago Press: Chicago, 2006; Morozov, *To Save Everything, Click
+[^03Introduction_31]: Fred Turner, *From Counterculture to Cyberculture*, University of
+    Chicago Press: Chicago, 2006; Evgeny Morozov, *To Save Everything, Click
     Here*, Public Affairs: New York City, 2013b.
 
-[^03Introduction_32]: J. Burn-Murdoch, ‘The problem with algorithms: magnifying
+[^03Introduction_32]: John Burn-Murdoch, ‘The problem with algorithms: magnifying
     misbehaviour’, *Guardian*, 14 August 2013.
 
-[^03Introduction_33]: L. Dormehl, ‘Algorithms Are Great and All, But They Can Also Ruin
+[^03Introduction_33]: Luke Dormehl, ‘Algorithms Are Great and All, But They Can Also Ruin
     Lives’, *Wired*, 19 November 2014,
     https://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/.
 
-[^03Introduction_34]: C. Dwork, M. Hardt, T. Pitassi, O. Reingold, & R. Zemel,
+[^03Introduction_34]: Cynthia Dwork, M. Hardt, T. Pitassi, O. Reingold, & R. Zemel,
     ‘Fairness Through Awareness’, 2011, https://arxiv.org/abs/1104.3913.
 
-[^03Introduction_35]: L. Sweeney, ‘Discrimination in Online Ad Delivery: Google Ads,
+[^03Introduction_35]: Latanya Sweeney, ‘Discrimination in Online Ad Delivery: Google Ads,
     Black Names and White Names, Racial Discrimination, and Click
     Advertising’, *Queue* 11 (3, 2013): 10–29. 8.
 
-[^03Introduction_36]: K. Crawford, ‘The Hidden Biases in Big Data’, *Harvard Business
+[^03Introduction_36]: Kate Crawford, ‘The Hidden Biases in Big Data’, *Harvard Business
     Review*, 1 April 2013,
     https://hbr.org/2013/04/the-hidden-biases-in-big-data.
 
-[^03Introduction_37]: N. Diakopoulos, ‘Race Against the Algorithms’, *The Atlantic*, 4
+[^03Introduction_37]:Nicholas Diakopoulos, ‘Race Against the Algorithms’, *The Atlantic*, 4
     October 2013,
     https://www.theatlantic.com/technology/archive/2013/10/rageagainst-the-algorithms/280255/.
 
-[^03Introduction_38]: S. Noble, ‘Missed Connections: What Search Engines Say About
+[^03Introduction_38]: Safiya Noble, ‘Missed Connections: What Search Engines Say About
     Women’, *Bitch* magazine, Spring 2012 (54),
     https://www.bitchmedia.org/issue/54; S. Noble, ‘Google Search:
     Hyper-visibility as a Means of Rendering Black Women and Girls
@@ -1062,8 +1062,8 @@ Korea: ACM, 2022.
     S. Noble, *Algorithms of Oppression: How Search Engines Reinforce
     Racism*, NYU Press: New York City, 2013.
 
-[^03Introduction_39]: S. Barocas, and A. Selbst, ‘Big Data’s Disparate Impact’,
-    *California Law Review*, Vol. 104, No. 3, (June 2016): 671 - 732.
+[^03Introduction_39]: Solon Barocas, and Andrew Selbst, ‘Big Data’s Disparate Impact’,
+    *California Law Review*, 104, (3), (June 2016): 671 - 732.
 
 [^03Introduction_40]: https://civilrights.org/2014/02/27/civil-rights-principles-era-big-data.
 
@@ -1072,7 +1072,7 @@ Korea: ACM, 2022.
 
 [^03Introduction_42]: See https://governingalgorithms.org/.
 
-[^03Introduction_43]: A. Rosenblat, T. Kneese, and d. boyd, ‘Algorithmic
+[^03Introduction_43]: Alex Rosenblat, Tamara Kneese, and danah boyd, ‘Algorithmic
     Accountability: A Workshop Primer Produced For: The Social, Cultural
     & Ethical Dimensions of “Big Data”’, 17 March 2014, New York, NY,
     https://www.datasociety.net/pubs/2014-0317/AlgorithmicAccountabilityPrimer.pdf.
@@ -1085,27 +1085,27 @@ Korea: ACM, 2022.
 [^03Introduction_46]: Lily Hu, ‘Tech Ethics: Speaking Ethics to Power, or Power
     Speaking Ethics?’ *Journal of Social Computing* 2 (3, 2021): 243.
 
-[^03Introduction_47]: J. Khadijah Abdurahman, ‘On the Moral Collapse of AI Ethics’ *Medium* blog,8 December 2020,https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-	ethics-791cbc7df872.;Karen Hao, ‘A Leading AI Ethics Researcher Says She’s Been Fired from 	Google’, *MIT Technology Review*, 3 December 2020,https://www.technologyreview.com/	2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/.
+[^03Introduction_47]: J. Khadijah Abdurahman, ‘On the Moral Collapse of AI Ethics’ *Medium* blog, 8 December 2020, https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-	ethics-791cbc7df872.Karen Hao, ‘A Leading AI Ethics Researcher Says She’s Been Fired from 	Google’, *MIT Technology Review*, 3 December 2020,https://www.technologyreview.com/	2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/.
 
 [^03Introduction_48]: Whittaker, ‘The Steep Cost of Capture’.
 
-[^03Introduction_49]: see, for example, Sara Ahmed, *On Being Included: Racism and
-    Diversity in Institutional Life*. Duke University Press, 2012; bell
+[^03Introduction_49]: See, for example, Sara Ahmed, *On Being Included: Racism and
+    Diversity in Institutional Life*, Duke University Press, 2012; bell
     hooks, *Talking Back: Thinking Feminist, Thinking Black*. 2 edition.
     Routledge, 2014; Aileen Moreton-Robinson, *Talkin’ Up to the White
     Woman: Aboriginal Women and Feminism*. Univ. of Queensland Press,
     2000.
 
-[^03Introduction_50]: see Sara Ahmed, “The Language of Diversity.” *Ethnic and Racial
+[^03Introduction_50]: See Sara Ahmed, “The Language of Diversity.” *Ethnic and Racial
     Studies* 30, no. 2 (March 2007): 235–56; Ruha Benjamin, *Race After
     Technology: Abolitionist Tools for the New Jim Code*. 1 edition.
     Cambridge, UK; Medford, MA: Polity, 2019; Carl Elliott, *White Coat,
     Black Hat: Adventures on the Dark Side of Medicine*. 1st edition.
     Beacon Press, 2010; Anna Lauren Hoffmann, “Terms of Inclusion: Data,
     Discourse, Violence.” *New Media & Society*, September 16, 2020,
-    146144482095872.
+    doi.146144482095872.
 
-[^03Introduction_51]: see Powles and Nissenbaum, ‘The Seductive Diversion of ‘Solving’
+[^03Introduction_51]: See Powles and Nissenbaum, ‘The Seductive Diversion of ‘Solving’
     Bias in Artificial Intelligence’; Ochigame, ‘The Invention of
     “Ethical AI”’; Gebru, ‘For Truly Ethical AI, Its Research Must Be
     Independent from Big Tech’; Abdurahman, ‘Fired for Speaking Out
@@ -1118,7 +1118,7 @@ Korea: ACM, 2022.
     of Chicago Press: Chicago, 2004.
 
 [^03Introduction_53]: Jake Goldenfein and Daniel Griffin, ‘Google Scholar: Platforming
-    the Scholarly Economy’, *Internet Policy Review* 11(3) (online).
+    the Scholarly Economy’, *Internet Policy Review* 11 (3, 2022) (online).
 
 
 
@@ -1167,13 +1167,13 @@ experiences in the form of stories in which the authors, each entangled
 in this reality of industry funding in different ways, reflect on our
 experiences. We examine how our work is shaped by industry funding, how
 we negotiate our own lines in the sand regarding when or how we are paid
-pennies for our thoughts, and how these negotiations and lines evolve
+'pennies for our thoughts', and how these negotiations and lines evolve
 over time. Engaging in both individual reflection and dialogic exchange,
 we ask ourselves (and each other):
 
-What lessons can be learned from the ethnographic realities of working
+*What lessons can be learned from the ethnographic realities of working
 on AI in academic settings in which research is reliant on industry
-funding?
+funding?*
 
 Answering this question, one that confronts many researchers, will help
 us provide new insights into how corporate power plays out in the
@@ -1653,7 +1653,7 @@ requires us not only to make choices, but also to examine them on an
 ongoing basis. To look, in a relational fashion,[^05CathKeyes_43] at the benefits
 and harms that come from our tentative answers having time to unfold in
 practice. This reflection needs to happen in and through trusted
-relationships, or ‘critical academic friendship’,[^05CathKeyes_44]with peers,
+relationships, or ‘critical academic friendship’,[^05CathKeyes_44] with peers,
 students, and mentors. To not simply answer this question but
 *re-answer* this question, from the perspective of the collective to
 define what is needed for the collective rather than ‘what can I
@@ -1732,14 +1732,12 @@ Balayn, Agathe, and Gürses, Seda. ‘If AI Is the Problem, Is Debiasing
 the Solution?’, Brussels Belgium: EDRi, 2021,
 https://edri.org/our-work/if-ai-is-the-problem-is-debiasing-the-solution/.
 
-Bank, Max, Duffy, Felix, Leyendecker, Verena, and Silva, Margarida. *The
-Lobby Network: Big Tech’s Web of Influence In the EU*, Corporate Europe
+Bank, Max, Duffy, Felix, Leyendecker, Verena, and Silva, Margarida. 'The
+Lobby Network: Big Tech’s Web of Influence In the EU', Corporate Europe
 Observatory and LobbyControl e.V, 2021,
 https://corporateeurope.org/en/2021/08/lobby-network-big-techs-web-influence-eu.
 
-Bellanova, R., Irion, K., Jacobsen, K.L., Ragazzi, F., Saugmann, R., and
-Suchman, L. ‘Toward a Critique of Algorithmic Violence’, *International
-Political Sociology* 15.1 (2021): 121–50.
+Bellanova, Rocco, Kristina Irion, Katja Lindskov Jacobsen, Francesco Ragazzi, Rune Saugmann, and Lucy Suchman. ‘Toward a Critique of Algorithmic Violence.’ International Political Sociology (2021.)15 (1): 121–50. https://doi.org/10.1093/ips/olab003.
 
 Birhane, Abeba. ‘Algorithmic Injustice: A Relational Ethics Approach.’
 *Patterns* 2.2 (2021).
@@ -1760,7 +1758,7 @@ Communication’, *Applied communication in the 21st century* (1995):
 Dencik, Lina. ‘The Datafied Welfare State: A Perspective from the UK’,
 in Hepp, Andreas, Jarke, Juliane, and Kramp, Leif (eds), *The
 Ambivalences of Data Power: New Perspectives in Critical Data Studies*,
-UK: Palgrave Macmillan, 2022, pp. 145–66.
+UK: Palgrave Macmillan, 2022):145–66. 
 
 Ellis, Carolyn, Adams, Tony E., and Bochner, Arthur P. ‘Autoethnography:
 An Overview’, *Forum Qualitative Sozialforschung / Forum: Qualitative
@@ -1846,7 +1844,7 @@ Emerging Field of Technology, Ethics and Social Justice’, Weizenbaum
 Conference, Berlin, Germany, 16–17 May 2019.
 
 Sotiropoulou, Panagiota, and Cranston, Sophie. ‘Critical Friendship: An
-Alternative, ‘Care-full’ Way to Play the Academic Game’, *Gender, Place
+Alternative, ‘Care-ful’ Way to Play the Academic Game’, *Gender, Place
 & Culture* (2022): 1–22.
 
 Star, Susan Leigh. ‘This is Not a Boundary Object: Reflections on the
@@ -1896,8 +1894,8 @@ Whittaker, Meredith. ‘The Steep Cost of Capture’, *Interactions*, 28.6
 [^05CathKeyes_3]: Pawel Popiel, ‘The Tech Lobby: Tracing the Contours of New Media
     Elite Lobbying Power.’ *Communication Culture & Critique* 11.4
     (2018): 566–85 and Max Bank, Felix Duffy, Verena Leyendecker, and
-    Margarida Silva, *The Lobby Network: Big Tech’s Web of Influence in
-    the EU*, Corporate Europe Observatory and LobbyControl e.V, 2021,
+    Margarida Silva, 'The Lobby Network: Big Tech’s Web of Influence in
+    the EU', Corporate Europe Observatory and LobbyControl e.V, 2021,
     https://corporateeurope.org/en/2021/08/lobby-network-big-techs-web-influence-eu.
 
 [^05CathKeyes_4]: Corinne Cath, ‘Governing Artificial Intelligence: Ethical, Legal
@@ -1937,15 +1935,15 @@ Whittaker, Meredith. ‘The Steep Cost of Capture’, *Interactions*, 28.6
     Australia.’ *Postcolonial Studies* 20.1 (2017): 18–33.
 
 [^05CathKeyes_12]: Panagiota Sotiropoulou and Sophie Cranston, ‘Critical Friendship:
-    An Alternative, ‘Care-full’ Way to Play the Academic Game.’ *Gender,
+    An Alternative, ‘Care-ful’ Way to Play the Academic Game.’ *Gender,
     Place & Culture* (2022).
 
 [^05CathKeyes_13]: Thao Phan, et al., ‘Economies of Virtue: The Circulation of
     “Ethics” in Big Tech’, *Science as Culture* (2021): 121–35.
 
 [^05CathKeyes_14]: Frank Pasquale, ‘Machines Judging Humans: The Promise and Perils
-    of Formalizing Evaluative Criteria’, in Proceedings of the AAAI/ACM
-    Conference on AI, Ethics, and Society, New York, 7–8 February 2020.
+    of Formalizing Evaluative Criteria’, in *Proceedings of the AAAI/ACM
+    Conference on AI, Ethics, and Society*, New York, 7–8 February 2020.
 
 [^05CathKeyes_15]: Clare Hemmings, *Why Stories Matter*, Durham: Duke University
     Press, 2011.
@@ -2027,10 +2025,7 @@ Whittaker, Meredith. ‘The Steep Cost of Capture’, *Interactions*, 28.6
     Rethinking Applied Communication,’ *Applied Communication In the
     21st Century*, London: Routledge, 1995.
 
-[^05CathKeyes_35]: R. Bellanova, K. Irion, K. L. Jacobsen, F. Ragazzi, R. Saugmann,
-    and L. Suchman, ‘Toward a Critique of Algorithmic Violence’,
-    *International Political Sociology* 15.1 (2021): 121–50.
-
+[^05CathKeyes_35]: Bellanova, Rocco, Kristina Irion, Katja Lindskov Jacobsen, Francesco Ragazzi, Rune Saugmann, and Lucy Suchman. ‘Toward a Critique of Algorithmic Violence.’ International Political Sociology (2021.)15 (1): 121–50. https://doi.org/10.1093/ips/olab003.
 [^05CathKeyes_36]: Sotiropoulou and Cranston, ‘Critical Friendship’.
 
 [^05CathKeyes_37]: Alexis Shotwell, *Against Purity: Living Ethically in Compromised
@@ -2627,10 +2622,10 @@ Wyatt, S. ‘Metaphors in Critical Internet and Digital Media Studies’,
 
 ### Rodrigo Ochigame
 
-The Intercept *on 20 December 2019.*
+*This essay was originally published in The Intercept on 20 December 2019. It has been reprinted here with permission from the author.*
 
 The irony of the ethical scandal enveloping Joichi Ito, the former
-director of the MIT Media Lab, is that he used to lead academic
+director of the MIT Media Lab, is that he used to lead a cademic
 initiatives on ethics. After the revelation of his financial ties to
 Jeffrey Epstein, the financier charged with sex trafficking underage
 girls as young as 14, Ito resigned from multiple roles at MIT, a
@@ -2649,7 +2644,7 @@ Lab and the Berkman Klein Center for Internet & Society at Harvard
 University. What was all the talk of ‘ethics’ really about?
 
 For 14 months, I worked as a graduate student researcher in Ito’s group
-on AI ethics at the Media Lab. I stopped on 15 August, immediately after
+on AI ethics at the Media Lab. I stopped on 15 August 2019, immediately after
 Ito published his initial ‘apology’ regarding his ties to Epstein, in
 which he acknowledged accepting money from the financier both for the
 Media Lab and for Ito’s outside venture funds. Ito did not disclose that
@@ -2951,7 +2946,7 @@ corporate lobby.
 The field has also become relevant to the U.S. military, not only in
 official responses to moral concerns about technologies of targeted
 killing but also in disputes among Silicon Valley firms over lucrative
-military contracts. On 1 November, the Department of Defense’s
+military contracts. On 1 November 2019, the Department of Defense’s
 innovation board published its recommendations for ‘AI Ethics
 Principles.’ The board is chaired by Eric Schmidt, who was the executive
 chair of Alphabet, Google’s parent company, when Obama’s defense
@@ -2976,7 +2971,7 @@ the Pentagon a ‘deeply ethical organization’ and offers to extend its
 ‘existing ethics framework’ to AI. To this end, the board cites the AI
 ethics research groups at Google, Microsoft, and IBM, as well as
 academics sponsored by the MIT-Harvard fund. However, there are caveats.
-For example, the board notes that although ‘the term ‘fairness’ is often
+For example, the board notes that although ‘the term "fairness" is often
 cited in the AI community,’ the recommendations avoid this term because
 of ‘the DoD mantra that fights should not be fair, as DoD aims to create
 the conditions to maintain an unfair advantage over any potential
@@ -2992,7 +2987,7 @@ he informally advised Schmidt on which academic AI ethicists Schmidt’s
 private foundation should fund. Once, Ito even asked me for second-order
 advice on whether Schmidt should fund a certain professor who, like Ito,
 later served as an ‘expert consultant’ to the Pentagon’s innovation
-board. In February, Ito joined Carter at a panel titled ‘Computing for
+board. In February 2019, Ito joined Carter at a panel titled ‘Computing for
 the People: Ethics and AI,’ which also included current and former
 executives of Microsoft and Google. The panel was part of the inaugural
 celebration of MIT’s \$1 billion college dedicated to AI. Other speakers
@@ -4080,7 +4075,7 @@ Robbins, Paul. ‘Is Less More…or Is More Less? Scaling the Political
 Ecologies of the Future’, *Political Geography* 76 (2020): 102018.
 
 Sadowski, Jathan. ‘When Data Is Capital: Datafication, Accumulation, and
-Extraction’, *Big Data & Society* 6.1 (2019): 2053951718820549.
+Extraction’, *Big Data & Society* 6.1 (2019): 1-12.
 
 ——. ‘The Internet of Landlords: Digital Platforms and New Mechanisms of
 Rentier Capitalism’, *Antipode* 52 (2020): 562–80.
@@ -4380,7 +4375,7 @@ Zhang, John, and Hoshino, Kazunori. *Molecular Sensors and Nanodevices*
     13.12 (2018): 124030.
 
 [^09Taffel_39]: Mél Hogan, ‘Data Flows and Water Woes: The Utah Data Center’,
-    *Big Data & Society* 2.2: (2015): 2053951715592429.
+    *Big Data & Society* 2.2: (2015): 1-12.
 
 [^09Taffel_40]: Nicole Starosielski, ‘Thermocultures of Geological Media’,
     *Cultural Politics* 12.3 (2016): 293–309.
@@ -4729,7 +4724,7 @@ Zhang, John, and Hoshino, Kazunori. *Molecular Sensors and Nanodevices*
 
 [^09Taffel_115]: Jathan Sadowski, ‘When Data Is Capital: Datafication,
     Accumulation, and Extraction’, *Big Data & Society* 6.1 (2019):
-    2053951718820549.
+    1-12.
 
 [^09Taffel_116]: Nick Couldry and Ulises A. Mejias, ‘Data Colonialism: Rethinking
     Big Data’s Relation to the Contemporary Subject’, *Television & New
@@ -4754,7 +4749,7 @@ Zhang, John, and Hoshino, Kazunori. *Molecular Sensors and Nanodevices*
 
 ## Introduction
 
-Prominent discussions on AI ethics frameworks and other initiatives,
+Prominent discussions on AI ethics frameworks and other initiatives
 take place at the international or national level, and especially those
 from the human rights approach may claim a universal or global
 application and significance.[^10Daly_1] Outside of prominent countries such as
@@ -4850,7 +4845,7 @@ of AI, in the form of facial recognition cameras and software,
 especially when used by law enforcement. This is a concrete example of
 localized engagements with AI and the formation of resistance which have
 led to forms of localized governance of AI in some places including the
-UK. Despite the lofty ideals and potential for large scale impact that
+U.K. Despite the lofty ideals and potential for large scale impact that
 more global initiatives on AI ethics and governance promise, and despite
 a more global approach probably being more appropriate for a globalized,
 transnational technology such as AI and applications including facial
@@ -4866,9 +4861,9 @@ In any event, these everyday encounters are impactful in other ways when
 individuals and communities negotiate and contest certain AI uses in
 ways that may lead to change as policymakers and the law may respond to
 their wishes. This is clearly impactful in localities where it takes
-place but lacks acknowledgement and claims, whether implicit or
+place but lacks acknowledgement and may constrast with claims, whether implicit or
 explicit, to universality that conventional high-level AI ethics
-initiatives contain, and which is incentivized by impact in academic
+initiatives contain, which is incentivized by impact in academic
 research.[^10Daly_18] In the case of facial recognition at least, and perhaps
 more broadly, more AI ‘ethical’ attention given to this application in
 its local and everyday encounters can highlight or serve forms of
@@ -4981,8 +4976,8 @@ significant since it is the first global standard on the topic, however
 it is not binding on signatory states, and it is merely ‘recommended’
 that member states implement it on a ‘voluntary basis’ in their
 respective domestic jurisdictions.[^10Daly_30] Much attention so far has been
-paid to efforts in the European Union (EU) to formulate its own
-legislation on AI, the EU AI Act, which is currently under discussion at
+paid to efforts in the European Union (E.U.) to formulate its own
+legislation on AI, the E.U. AI Act, which is currently under discussion at
 the time of writing,[^10Daly_31] and is notable as the first major attempt by a
 leading global jurisdiction to regulate AI in a binding way, albeit one
 as it currently stands that will not outlaw completely law enforcement
@@ -5112,7 +5107,7 @@ the general public. Facial recognition has been an object for social
 movement mobilizations, either specifically against the use of this
 surveillance technology, or as part of broader protests. Facial
 recognition has also seen the mobilisation of everyday law against it,
-and led to questions for how state law addresses it.
+and led to questions as to how state law addresses it.
 
 Facial recognition and CCTV cameras have been the site of protest and
 actual destruction in various locations globally. During protests in
@@ -5133,7 +5128,7 @@ of protestors against the extradition bill and national security law in
 Hong Kong, where a ‘lack of trust in technology persists’.[^10Daly_50] Not only
 did were ‘face masks, umbrellas and lasers … routinely used by
 demonstrators to blind CCTV cameras … thereby render\[ing\] facial
-recognition ineffective’,[^10Daly_51] protestors: 'also took down new ‘smart’ lampposts, where their full technological capabilities have not been disclosed, installed by the Government during a protest against surveillance and increasing prevalence of facial recognition technologies.[^10Daly_52]
+recognition ineffective’,[^10Daly_51] protestors 'also took down new "smart" lampposts, where their full technological capabilities have not been disclosed, installed by the Government during a protest against surveillance and increasing prevalence of facial recognition technologies.[^10Daly_52]
 
 Protestors not only took down the lampposts but also ‘dissected’ them by
 opening up their ‘black boxes’ to see exactly what components and
@@ -5162,12 +5157,12 @@ and also demonstrates government responsiveness to citizen concerns in
 the general context of top-down smart city initiatives such as that of
 Hong Kong.[^10Daly_55]
 
-## Facial Recognition, Everyday AI Law and Ethics in the UK
+## Facial Recognition, Everyday AI Law and Ethics in the U.K.
 
 Facial recognition as everyday AI, and contestations around it, have
 been prominent in the U.K., and mobilization against facial recognition
 has resulted in litigation and policy change, and divergence between the
-approach in different parts of the U.K. Live facial recognition
+approaches in different parts of the U.K. Live facial recognition
 technology has been used in different parts of the U.K. to police public
 places, to mounting levels of controversy and legal challenge. For these
 reasons, I consider it an interesting case study of everyday AI ethics
@@ -5229,7 +5224,7 @@ the use of live facial recognition technology by police in Scotland.
 
 This contrasts with the approach taken in England and Wales - which are
 the same jurisdiction, Scotland and Northern Ireland each being the
-other two jurisdictions which make up the UK. According to Big Brother
+other two jurisdictions which make up the U.K. According to Big Brother
 Watch:
 
 > Police forces in the UK have rolled out automatic facial recognition
@@ -5308,7 +5303,7 @@ In light of the above, with live facial recognition use by police in
 Scotland effectively banned, yet permitted with some limitations in
 England and Wales, there is a ‘North–South Divide’ as Lynch has termed
 it, regarding police use of live facial recognition as an everyday AI
-application in public places in the UK:
+application in public places in the U.K.:
 
 > If you find yourself walking in some parts of London or Wales, for
 > example, live facial recognition technology will now be able to scan
@@ -5334,7 +5329,7 @@ a \#StopCoopSpying social media campaign.[^10Daly_78] At the time of writing,
 the Co-op is the subject of a complaint to the ICO by Big Brother Watch
 and digital rights agency AWO.[^10Daly_79]
 
-Everyday encounters and contestations of facial recognition in the UK
+Everyday encounters and contestations of facial recognition in the U.K.
 demonstrate how the public meets AI in the form of facial recognition in
 their quotidian lives, through police deployment in public places, to
 its use in schools and supermarkets. The most successful influencing of
@@ -5361,15 +5356,15 @@ global capital, in the cases of laws and policies developed in
 California in the U.S., and increasingly the effect of European Union
 law and policy more globally, with the ‘Brussels effect’ of its
 governance mechanisms influencing law and policy elsewhere due to the
-EU’s status as the world’s largest trading bloc and its active stance in
+E.U.’s status as the world’s largest trading bloc and its active stance in
 developing and circulating its law and regulation beyond its
-borders.[^10Daly_81] This may also be the case for the EU’s proposed AI Act,
+borders.[^10Daly_81] This may also be the case for the E.U.’s proposed AI Act,
 which may follow the GDPR in forming a de facto global norm,[^10Daly_82] and
 one which at the moment, as mentioned above, will not prohibit outright
 the use of facial recognition, even by law enforcement.
 
 Yet, the Scottish example shows how other forms of norm circulation are
-possible which are not in the service of global capital and power where
+possible which are not in the service of global capital and power with
 the local prohibitions on police facial recognition use in other parts
 of the world being referenced by the Scottish Parliament Justice
 Sub-Committee in its call for a moratorium on police use of live facial
@@ -5382,7 +5377,7 @@ protests, and legal mobilizations in other geographical contexts.
 At a ‘high level’, the U.K. has set out its public research funding
 approach to AI and its policy intentions as regards a ‘light touch’
 non-binding governance of AI, including facial recognition. This
-demonstrates a further cleavage with the EU’s intention to regulate AI.
+demonstrates a further cleavage with the E.U.’s intention to regulate AI.
 It can be seen as part of the U.K.’s post-Brexit trajectory, which also
 involves a distancing from the E.U.’s data protection regime, and
 accords with Ossewaarde and Gulenc’s aforementioned observations of the
@@ -5411,7 +5406,7 @@ capital, especially Big Tech firms, to influence these administrations
 in ways favorable to their interests. Such conditions present
 possibilities for localized negotiation and resistance to AI and which
 have been realized to some degree in reining in facial recognition, and
-which can be juxtaposed to the laissez-faire ‘pro-innovation’ approach
+which can be juxtaposed with the laissez-faire ‘pro-innovation’ approach
 of the U.K. government to AI.
 
 ## Conclusion
@@ -6096,7 +6091,7 @@ and Technology Law Review*, 22.2 (2021): 284–307.
 
 # Dining out on Data: Ethics, Value, and the Calculation of Risk Appetites
 
-## Tsvetelina Hristova and Liam Magee
+### Tsvetelina Hristova and Liam Magee
 
 Data ethics and AI ethics constitute an increasingly contested terrain
 where scholars, activists, state institutions, and industry actors
@@ -7407,7 +7402,8 @@ of government initiatives, targeted investment strategies, academic
 research funding programs, and knowledge transfer hubs. Together, these
 aim to hothouse military technology start-ups by echoing the
 public–private partnerships so beloved by neoliberal infrastructure
-builders. To show how military ethics functions within economies of
+builders. 
+To show how military ethics functions within economies of
 virtue, this essay argues that three critical dynamics around ‘ethics’
 are shaping the emerging military technology industry in Australia and
 its relation to academia. I begin by examining how ethics function as a
@@ -8106,7 +8102,7 @@ Whittaker, Meredith. ‘The Steep Cost of Capture’, *Interactions* 28.6
 
 
 
-# Section III: Creative-critical Inventions
+# Section III: Action
 
 
 
@@ -8500,7 +8496,13 @@ thousands of signatures. This was early 2018, and it hit a nerve.
  across the world where they flew me out to Mountain View to be on the
  stage and do three sessions of debate, the first starting at 8am, the
  last starting at 8pm, to get global coverage. And what astounded me
- was that none of the executives prepared. I had only 48 hours’ notice and still I had pages and pages of notes, had rehearsed, had all my numbers and stats on flashcards. And they walked out and hadn’t prepared. So there were a lot of ways that we benefited from their hubris and unforced errors. And happily at that point I had enough capital via my work and my reputation to be taken seriously.We were able to cancel that contract and also able, I think, to inflame a desire for organising among people who then began > contribute and lay the groundwork for building longer term power. By the end of Maven, I knew I was fucked in terms of my ability to stay at Google. I knew they’d wait a little, not go in all at once. But they were going to come for me because I was no longer a dissenting voice. I’d actually cost them something, and they no longer found that cute. So I figured that the only thing I could do was push the gas as hard as I could and keep organizing and see what happened while keeping meticulous notes and not letting my guard down Maven was the first wave of visible elite tech worker organising targeting the tech industry as it exists now. It flushed the tech nervous system with the idea that organizing was a legitimate and useful means of checking these powerful companies and enacting some of the ‘ethical’ outcomes that otherwise sit on shelves as position papers never implemented. The walkout was the most visible manifestation of this newly accepted form of resistance. It was so lovely. It came together quickly and was organized by mainly femmes and people in operational roles whose job is to organise shit all day anyway—very much the glue that keeps the company together. And suddenly there are hundreds of hyper competent, mainly femmes, turning their daily wage work skills against the company, using all this talent differently. In about three days a whole apparatus came together with ground teams that were passing out flyers of the talking points to every location across the globe, with regional leads who checked in with the core organizers, with distribution networks to ensure everyone had the latest protocol, with a team of people who were iterating and taking feedback on the demands. Just a whole polished infrastructure from scratch. I feel so inspired just talking about it. It really demonstrates the possibilities for collective action, and how much we can do if we redirect our labour. It also transformed people. People were happy! Suddenly we had a clear example of the difference between a world where we direct our energy and social relationships into making Google money, and one where we direct this toward creating a world we want. And I saw people start to ask, ‘What else can we do?’ These moments where the possibilities of reclaiming our labour are made explicit are so powerful. And it’s no accident that it was right after the walkout[^14Sadowaski_7] that Google got serious about cracking down.
+ was that none of the executives prepared. I had only 48 hours’ notice and still I had pages and pages of notes, had rehearsed, had all my numbers and stats on flashcards. And they walked out and hadn’t prepared. So there were a lot of ways that we benefited from their hubris and unforced errors. And happily at that point I had enough capital via my work and my reputation to be taken seriously.
+ 
+ We were able to cancel that contract and also able, I think, to inflame a desire for organising among people who then began to contribute and lay the groundwork for building longer term power. By the end of Maven, I knew I was fucked in terms of my ability to stay at Google. I knew they’d wait a little, not go in all at once. But they were going to come for me because I was no longer a dissenting voice. I’d actually cost them something, and they no longer found that cute. So I figured that the only thing I could do was push the gas as hard as I could and keep organizing and see what happened while keeping meticulous notes and not letting my guard down. 
+ 
+ Maven was the first wave of visible elite tech worker organising targeting the tech industry as it exists now. It flushed the tech nervous system with the idea that organizing was a legitimate and useful means of checking these powerful companies and enacting some of the ‘ethical’ outcomes that otherwise sit on shelves as position papers never implemented. The walkout was the most visible manifestation of this newly accepted form of resistance. It was so lovely. It came together quickly and was organized by mainly femmes and people in operational roles whose job is to organise shit all day anyway—very much the glue that keeps the company together. And suddenly there are hundreds of hyper competent, mainly femmes, turning their daily wage work skills against the company, using all this talent differently. 
+ 
+ In about three days a whole apparatus came together with ground teams that were passing out flyers of the talking points to every location across the globe, with regional leads who checked in with the core organizers, with distribution networks to ensure everyone had the latest protocol, with a team of people who were iterating and taking feedback on the demands. Just a whole polished infrastructure from scratch. I feel so inspired just talking about it. It really demonstrates the possibilities for collective action, and how much we can do if we redirect our labour. It also transformed people. People were happy! Suddenly we had a clear example of the difference between a world where we direct our energy and social relationships into making Google money, and one where we direct this toward creating a world we want. And I saw people start to ask, ‘What else can we do?’ These moments where the possibilities of reclaiming our labour are made explicit are so powerful. And it’s no accident that it was right after the walkout[^14Sadowaski_7] that Google got serious about cracking down.
 
 TP: I wonder if we could just shift the conversation now to hard and
 soft power in the institution. You saw all these problems when you were
@@ -8520,7 +8522,13 @@ fact in Eric Schmidt’s speech in front of the European Commission, or
 similar. These things weren’t hidden. They were common practice and a
 key component of policy, comms, and lobbying strategy.
 
-I’m an academic now, but I have never had been treated better by a university than when I was a tech worker with money. And once I was at NYU full time, I began to see the other side. To see how the political economy at the university works, and how essential grants and funding are for success, and how contingent they are on doing a certain type of not-too-radical work. While I was at Google, I’d known they were courting academics to influence them, but I hadn’t realized exactly how much power that influence wielded. What a stranglehold these companies had, particularly in light of the neoliberal university’s search for big donors, and the pervasive unwillingness to piss off those donors. This hit me and AI Now hard. We were warned by the NYU engineering school (where we were situated) to align our views with the views of other engineering centres, which were generally positivist and technocratic. In early 2021, we were told that we didn’t align with the strategy of the school and that we needed to find another home. Then, in late 2021, NYU informed us that they were going to take all of our gift money, leaving us with the choice of litigating, which is expensive and which AI Now, as a part of NYU, can’t pay for, or of walking and trying to make up the over four million dollars that was effectively stolen by the university. We are still dealing with the fallout of this, and the future isn’t certain. And again, there wasn’t a way to succeed ourselves out of this situation. This all happened while AI Now was, by any given measure, one of the most impactful university centres doing critical tech research in the world. We’ve shaped a field along with a handful of others. We are meeting all the benchmarks and exceeding them by orders of magnitude in ways that universities ostensibly care about. We get all the press, yada yada yada. But when push comes to shove, these don’t animate the neoliberal university. At the end of the day, the only interpretation left to me is that the engineering school knows it's not rising in the rankings if they don’t get an Amazon-sponsored machine learning centre, if they don’t get infrastructure grants from Meta, etc. These are fundamental requirements for ‘cutting edge’ CS research, and AI Now was in the way. And I don’t think the threat to critical work can be made any clearer. For these universities there is no contest between the \$250K Ford Foundation grant we can secure to hire a couple of postdocs and the $15 million that Eric Schmidt just gave to Yale for some new AI center. They know that. We don’t have much leverage. Amy Westervelt has this really good podcast called *Drilled* where she looks at the history of climate denialism. She looks at the time where Exxon was funding and catalyzing rigorous climate research in pursuit of potentially changing its business model to provision non-carbon sources of energy. Why not if you can make money either way? Then at some point they decided that they weren’t actually interested in exploring those non-carbon sources. Around this time, they decided to push the climate scientists out, and eventually to fund and platform climate denial and fringe research that could backstop it. This shifted the field of climate research, and created an environment where vocal critics were targeted, where they faced threats to their careers. I see tech being at a similar inflection point. For a moment, they thought they could absorb and recuperate criticism. That moment has passed, and critical work is in a very precarious position right now. We need much more space to discuss and strategize given this, and I worry that the polite rooms assembled by funders aren’t providing this.
+I’m an academic now, but I have never had been treated better by a university than when I was a tech worker with money. And once I was at NYU full time, I began to see the other side. To see how the political economy at the university works, and how essential grants and funding are for success, and how contingent they are on doing a certain type of not-too-radical work. While I was at Google, I’d known they were courting academics to influence them, but I hadn’t realized exactly how much power that influence wielded. What a stranglehold these companies had, particularly in light of the neoliberal university’s search for big donors, and the pervasive unwillingness to piss off those donors. 
+
+This hit me and AI Now hard. We were warned by the NYU engineering school (where we were situated) to align our views with the views of other engineering centres, which were generally positivist and technocratic. In early 2021, we were told that we didn’t align with the strategy of the school and that we needed to find another home. Then, in late 2021, NYU informed us that they were going to take all of our gift money, leaving us with the choice of litigating, which is expensive and which AI Now, as a part of NYU, can’t pay for, or of walking and trying to make up the over four million dollars that was effectively stolen by the university. 
+
+We are still dealing with the fallout of this, and the future isn’t certain. And again, there wasn’t a way to succeed ourselves out of this situation. This all happened while AI Now was, by any given measure, one of the most impactful university centres doing critical tech research in the world. We’ve shaped a field along with a handful of others. We are meeting all the benchmarks and exceeding them by orders of magnitude in ways that universities ostensibly care about. We get all the press, yada yada yada. But when push comes to shove, these don’t animate the neoliberal university. At the end of the day, the only interpretation left to me is that the engineering school knows it's not rising in the rankings if they don’t get an Amazon-sponsored machine learning centre, if they don’t get infrastructure grants from Meta, etc. These are fundamental requirements for ‘cutting edge’ CS research, and AI Now was in the way. And I don’t think the threat to critical work can be made any clearer. For these universities there is no contest between the \$250K Ford Foundation grant we can secure to hire a couple of postdocs and the $15 million that Eric Schmidt just gave to Yale for some new AI center. They know that. We don’t have much leverage. 
+
+Amy Westervelt has this really good podcast called *Drilled* where she looks at the history of climate denialism. She looks at the time where Exxon was funding and catalyzing rigorous climate research in pursuit of potentially changing its business model to provision non-carbon sources of energy. Why not if you can make money either way? Then at some point they decided that they weren’t actually interested in exploring those non-carbon sources. Around this time, they decided to push the climate scientists out, and eventually to fund and platform climate denial and fringe research that could backstop it. This shifted the field of climate research, and created an environment where vocal critics were targeted, where they faced threats to their careers. I see tech being at a similar inflection point. For a moment, they thought they could absorb and recuperate criticism. That moment has passed, and critical work is in a very precarious position right now. We need much more space to discuss and strategize given this, and I worry that the polite rooms assembled by funders aren’t providing this.
 
 TP: I’d like to come back to the question of labour. How does the
 political economy of funding affect the nature of labour today in the
@@ -8746,7 +8754,7 @@ participate in what seems like infinite workshops about fixing
 of the Institute at UCLA reached out to me asking me to talk about tech
 worker activism. I said, ‘Well, shouldn’t you ask Meredith Whittaker,
 because she actually was at Google organizing against Project
-Maven[^15Goldenfein_2]’—something I was involved with in solidarity as an academic
+Maven'[^15Goldenfein_2] —something I was involved with in solidarity as an academic
 doing a petition. And he said, ‘Oh yes, I already asked Meredith, and
 she actually couldn’t do it, which is why I’m asking you.’ I said, ‘Oh,
 that’s great. We’re on the same page.’ Oh, how wrong I was. After I’d
@@ -8869,7 +8877,7 @@ lines? Is Koch so egregious compared to everyone else that we’re taking
 this money from?
 
 KA: There’s a tension! I really liked your paper on ‘Economies of
-Virtue’[^15Goldenfein_6], in part because it raised the issue of Minderoo. I’m very
+Virtue[^15Goldenfein_6]' , in part because it raised the issue of Minderoo. I’m very
 aware that I receive Minderoo funding, though somewhat indirectly
 through AI Now. I’d never heard of Minderoo because I didn’t grow up in
 Australia. But the shit is super evil. It’s based on Aboriginal land
@@ -8988,12 +8996,12 @@ not easy to crack.
 
 In an essay by Dean Spade in *Social Text*,[^15Goldenfein_12] he breaks down several activism strategies. The first is marching and overt activism, but then there’s also these architectures of care which frame up a discussion of the importance of mutual aid. Much of his larger book[^15Goldenfein_13] on mutual aid is about ‘how to have a meeting,’ and how to get people to commit to doing things; like, how to use sign-up sheets. I thought this was fantastic because it’s a good prompt to revisit and think about what these networks look like if you start doing the 101.
 
-JG: Alex, I think you’ve highlighted this real tension between some the
+JG: Alex, I think you’ve highlighted this real tension between some of the
 deeply individual imperatives that are a big part of what you earlier
 called an ‘economy of prestige’—being the person that receives the kudos
 for calling out the bad corporate actor and getting the speaking
 engagements and academic kudos, etc.—and the collective imperatives of
-political organizing, which is not rewarded at all in the same way. And
+political organizing, which are not rewarded at all in the same way. And
 this inevitably has to do with how our institutional lives are
 organized.
 
@@ -9068,7 +9076,7 @@ that action come from?
 
 LI: I may delete all of what I’m about to say.
 
-The impetus for the FAccT letter came from one attendee getting really angry at the town hall about Christo Wilson’s paper that basically let a company, ‘pymetrics,’ define the terms of fairness auditing its own hiring algorithm.[^15Goldenfein_17] That paper was then trotted around by the company as an example of being independently audited so that local city councils and regulators would consider this algorithm ready to go. The process of working on that letter then expanded into discussion of other issues. Khadijah was involved in the beginning. Alex was also involved in those conversations.
+The impetus for the FAccT letter came from one attendee getting really angry at the town hall about Christo Wilson’s paper that basically let a company, ‘pymetrics,’ define the terms of fairness 'auditing its own' hiring algorithm.[^15Goldenfein_17] That paper was then trotted around by the company as an example of being independently audited so that local city councils and regulators would consider this algorithm ready to go. The process of working on that letter then expanded into discussion of other issues. Khadijah was involved in the beginning. Alex was also involved in those conversations.
 
 Asking FAccT to take a stand, or seeing that they won’t take a stand publicly, is a meaningful action. I’m curious what the others think about this. As with a lot of organizing, it’s learning by doing, and so there were a lot of conversations between me and Alex, me and Khadijah, and this network of people who signed the letter, and some of the people who didn’t sign it but were glad it was happening. There were conversations asking, ‘Yeah, is there a point in making a demand? Is there a point to making a demand about *this* particular thing?’ It forced us to clarify, to some extent, our analysis of what the institution was in a way that could maybe be made public.
 
@@ -9108,7 +9116,7 @@ of what’s at stake.
 ## References
 
 Abdurahman, J. Khadijah. ‘On the Moral Collapse of AI Ethics’ *Medium*
-blog,8 December 2020,
+blog, 8 December 2020,
 https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-ethics-791cbc7df872.
 
 ——. ‘Encoding Hindutva: Shalini Kantayya and Coded Bias’, *Medium* blog,
@@ -9130,13 +9138,11 @@ Stone*, 24 September 2014,https://www.rollingstone.com/politics/politics-news/in
 Harney, Stefano and Moten, Fred. *The Undercommons: Fugitive Planning &
 Black Study*, London: Minor Compositions, 2013.
 
-Meyerhff, Eli, Johnson, Elizabeth, Braun, Bruce. ‘Time and the
+Meyerhff, Eli, Johnson, Elizabeth, and Braun, Bruce. ‘Time and the
 university’, *ACME : An International E-journal for Critical
 Geographies* 10(3) (2011): 483–507.
 
-Pasquale, Frank. *New Laws of Robotics*.
-
-*Defending Human Expertise in the Age of AI*, Cambdrige. Harvard
+Pasquale, Frank. *New Laws of Robotics Defending Human Expertise in the Age of AI*, Cambdrige. Harvard
 University Press, 2020.
 
 Phan, Thao, Goldenfein, Jake Mann, Monique, and Kuch, Declan. ‘Economies
@@ -9193,7 +9199,7 @@ March. 2021.
     https://upfromthecracks.medium.com/encoding-hindutva-shalini-kantayya-and-coded-bias-721fe04f225f.
 
 [^15Goldenfein_10]: J. Khadijah Abdurahman, ‘A Body of Work That Cannot be Ignored’
-    *Logic: Beacons* 15 (2022)https://logicmag.io/beacons/a-body-of-work-that-cannot-be-ignored/.
+    *Logic: Beacons* 15 (2022 https://logicmag.io/beacons/a-body-of-work-that-cannot-be-ignored/.
 
 [^15Goldenfein_11]: Frank Pasquale, *New Laws of Robotics: Defending Human Expertise
     in the Age of AI*, Cambridge: Harvard University Press, 2020.
@@ -9221,7 +9227,7 @@ March. 2021.
 
 # Acknowledgements
 
-There have been so many wonderful people who have helped us to bring this collection to life. The brilliant authors for not only contributing their time but for generously diving into the experimental “collective review” process. To Geert Lovink for his patience and support of our project, and for his commitment and vision to modes of publication that subvert the constraining norms of academic practice. To the editors and reviewers at *Science as Culture*, in particular Kean Birch and Kelly Bronson who edited its ‘Forum on Big Tech’ where we initially published on the ‘economy of virtue.’ To Elena Gomez for her swift and incisive editing. To the presenters who joined us at our first Economies of Virtue workshop in July 2021: Angela Daly, Sarah Pink, Brett Neilson, Mark Andrejevic, Julia Powles, Sy Taffel, Winifred Poster, Tsvetelina Hristova, Michael Richardson, Tanja Dreher, and Ed Santow. To Emma Kowal for her support and guidance in helping us to apply for the Academy of the Social Sciences in Australia workshop program grant. And finally, to the many interlocutors who have generously held conversations with us and more as we explored this thorny topic, especially Seth Lazar, Kate Devitt, Christine Parker, and Julia Powles. 
+There have been so many wonderful people who have helped us to bring this collection to life. The brilliant authors for not only contributing their time but for generously diving into the experimental “collective review” process. To Geert Lovink for his patience and support of our project, and for his commitment and vision to modes of publication that subvert the constraining norms of academic practice. To the editors and reviewers at *Science as Culture*, in particular Kean Birch and Kelly Bronson who edited the ‘Forum on Big Tech’ where we initially published on the ‘economy of virtue.’ To Elena Gomez for her swift and incisive editing. To the presenters who joined us at our first Economies of Virtue workshop in July 2021: Angela Daly, Sarah Pink, Brett Neilson, Mark Andrejevic, Julia Powles, Sy Taffel, Winifred Poster, Tsvetelina Hristova, Michael Richardson, Tanja Dreher, and Ed Santow. To Emma Kowal for her support and guidance in helping us to apply for the Academy of the Social Sciences in Australia workshop program grant. And finally, to the many interlocutors who have generously held conversations with us and more as we explored this thorny topic, especially Seth Lazar, Kate Devitt, Christine Parker, and Julia Powles. 
 
 
 #Contributor Biographies

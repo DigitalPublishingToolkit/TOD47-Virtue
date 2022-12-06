@@ -17,7 +17,7 @@ Rights: CC BY-NC 4.0
 ...
 
 
-# Economies of Virtue
+# Introduction: Economies of Virtue
 
 ### Thao Phan, Jake Goldenfein, Declan Kuch, and Monique Mann
 
@@ -440,7 +440,7 @@ therefore less amenable to the forms of capture and investment, at least
 as industry actors would imagine it.
 
 In the final essay in this section, Rodrigo Ochigame describes the
-framing of ethics as a kind of ‘amicable criticism’ that ‘can serve as a
+framing of ethics as a kind of ‘amicable criticism’ that can serve as a
 ‘leverage for entering into business relationships.’ Like Cath and
 Keyes, he describes his time as a graduate student researcher working in
 the AI ethics groups the MIT Media Lab. He provides candid commentary on
@@ -724,7 +724,7 @@ Ethics Council, So We Made One for You’, *MIT Technology Review* (blog),
 8 April 2019,
 https://medium.com/mit-technology-review/hey-google-sorry-you-lost-your-ethics-council-so-we-made-one-for-you-28ee6c33576a.
 
-Manjoo, F. ‘Silicon Valley Has an Arrogance Problem—WSJ’, *Wall Street
+Manjoo, Farhad. ‘Silicon Valley Has an Arrogance Problem—WSJ’, *Wall Street
 Journal*, 3 November 2013,
 https://www.wsj.com/articles/SB10001424052702303661404579175712015473766.
 
@@ -819,7 +819,7 @@ Korea: ACM, 2022.
     *Science as Culture*, 4 November 2021, 1–15.
 
 [^03Introduction_4]: Meredith Whittaker, ‘The Steep Cost of Capture’, *Interactions*
-    28, no. 6 (2021): 50–5.
+    28, (6, 2021): 50–5.
 
 [^03Introduction_5]: See, for example, Abeba Birhane, Elayne Ruane, Thomas Laurent,
     Matthew S. Brown, Johnathan Flowers, Anthony Ventresque, and
@@ -845,7 +845,7 @@ Korea: ACM, 2022.
 
 [^03Introduction_9]: Rashida Richardson in Bobbie Johnson and Gideon Lichfield, ‘Hey
     Google, Sorry You Lost Your Ethics Council, So We Made One for You’,
-    *MIT Technology Review* blog, 8 April 2019.
+    *MIT Technology Review* blog, 8 April 2019,
     https://medium.com/mit-technology-review/hey-google-sorry-you-lost-your-ethics-council-so-we-made-one-for-you-28ee6c33576a.
 
 [^03Introduction_10]: Jake Metcalf in Johnson & Lichfield, ‘Hey Google, Sorry You Lost
@@ -856,11 +856,11 @@ Korea: ACM, 2022.
 
 [^03Introduction_12]: Julia Powles and Helen Nissenbaum, ‘The Seductive Diversion of
     ‘Solving’ Bias in Artificial Intelligence’, *OneZero* blog, 7
-    December 2018.
+    December 2018,
     https://onezero.medium.com/the-seductive-diversion-of-solving-bias-in-artificial-intelligence-890df5e5ef53.
 
 [^03Introduction_13]: Lily Hu, ‘Tech Ethics: Speaking Ethics to Power, or Power
-    Speaking Ethics?’ *Journal of Social Computing* 2 (3, 2021): 240.
+    Speaking Ethics?’ *Journal of Social Computing,* 2 (3, 2021): 240.
 
 [^03Introduction_14]: Luke Munn, ‘The Uselessness of AI Ethics’, *AI and Ethics*, 23
     August 2022: n.p.
@@ -880,7 +880,7 @@ Korea: ACM, 2022.
     Report: Discovery Early Career Research Award 2022 | Australian
     Research Council,’ Australian Government | Australian Research
     Council, 2022.
-    https://www.arc.gov.au/funding-research/funding-outcome/selection-outcome-reports/selection-report-discovery-early-career-research-award-2022.).
+    https://www.arc.gov.au/funding-research/funding-outcome/selection-outcome-reports/selection-report-discovery-early-career-research-award-2022).
     For further discussion on the Australian Research Council and
     funding see Richardson’s chapter in this volume.
 
@@ -930,33 +930,33 @@ Korea: ACM, 2022.
     For further discussion on this slogan, see ‘Open Secrets’ in this
     volume.
 
-[^03Introduction_31]: F. Turner, *From Counterculture to Cyberculture*, University of
-    Chicago Press: Chicago, 2006; Morozov, *To Save Everything, Click
+[^03Introduction_31]: Fred Turner, *From Counterculture to Cyberculture*, University of
+    Chicago Press: Chicago, 2006; Evgeny Morozov, *To Save Everything, Click
     Here*, Public Affairs: New York City, 2013b.
 
-[^03Introduction_32]: J. Burn-Murdoch, ‘The problem with algorithms: magnifying
+[^03Introduction_32]: John Burn-Murdoch, ‘The problem with algorithms: magnifying
     misbehaviour’, *Guardian*, 14 August 2013.
 
-[^03Introduction_33]: L. Dormehl, ‘Algorithms Are Great and All, But They Can Also Ruin
+[^03Introduction_33]: Luke Dormehl, ‘Algorithms Are Great and All, But They Can Also Ruin
     Lives’, *Wired*, 19 November 2014,
     https://www.wired.com/2014/11/algorithms-great-can-also-ruin-lives/.
 
-[^03Introduction_34]: C. Dwork, M. Hardt, T. Pitassi, O. Reingold, & R. Zemel,
+[^03Introduction_34]: Cynthia Dwork, M. Hardt, T. Pitassi, O. Reingold, & R. Zemel,
     ‘Fairness Through Awareness’, 2011, https://arxiv.org/abs/1104.3913.
 
-[^03Introduction_35]: L. Sweeney, ‘Discrimination in Online Ad Delivery: Google Ads,
+[^03Introduction_35]: Latanya Sweeney, ‘Discrimination in Online Ad Delivery: Google Ads,
     Black Names and White Names, Racial Discrimination, and Click
     Advertising’, *Queue* 11 (3, 2013): 10–29. 8.
 
-[^03Introduction_36]: K. Crawford, ‘The Hidden Biases in Big Data’, *Harvard Business
+[^03Introduction_36]: Kate Crawford, ‘The Hidden Biases in Big Data’, *Harvard Business
     Review*, 1 April 2013,
     https://hbr.org/2013/04/the-hidden-biases-in-big-data.
 
-[^03Introduction_37]: N. Diakopoulos, ‘Race Against the Algorithms’, *The Atlantic*, 4
+[^03Introduction_37]:Nicholas Diakopoulos, ‘Race Against the Algorithms’, *The Atlantic*, 4
     October 2013,
     https://www.theatlantic.com/technology/archive/2013/10/rageagainst-the-algorithms/280255/.
 
-[^03Introduction_38]: S. Noble, ‘Missed Connections: What Search Engines Say About
+[^03Introduction_38]: Safiya Noble, ‘Missed Connections: What Search Engines Say About
     Women’, *Bitch* magazine, Spring 2012 (54),
     https://www.bitchmedia.org/issue/54; S. Noble, ‘Google Search:
     Hyper-visibility as a Means of Rendering Black Women and Girls
@@ -964,8 +964,8 @@ Korea: ACM, 2022.
     S. Noble, *Algorithms of Oppression: How Search Engines Reinforce
     Racism*, NYU Press: New York City, 2013.
 
-[^03Introduction_39]: S. Barocas, and A. Selbst, ‘Big Data’s Disparate Impact’,
-    *California Law Review*, Vol. 104, No. 3, (June 2016): 671 - 732.
+[^03Introduction_39]: Solon Barocas, and Andrew Selbst, ‘Big Data’s Disparate Impact’,
+    *California Law Review*, 104, (3), (June 2016): 671 - 732.
 
 [^03Introduction_40]: https://civilrights.org/2014/02/27/civil-rights-principles-era-big-data.
 
@@ -974,7 +974,7 @@ Korea: ACM, 2022.
 
 [^03Introduction_42]: See https://governingalgorithms.org/.
 
-[^03Introduction_43]: A. Rosenblat, T. Kneese, and d. boyd, ‘Algorithmic
+[^03Introduction_43]: Alex Rosenblat, Tamara Kneese, and danah boyd, ‘Algorithmic
     Accountability: A Workshop Primer Produced For: The Social, Cultural
     & Ethical Dimensions of “Big Data”’, 17 March 2014, New York, NY,
     https://www.datasociety.net/pubs/2014-0317/AlgorithmicAccountabilityPrimer.pdf.
@@ -987,27 +987,27 @@ Korea: ACM, 2022.
 [^03Introduction_46]: Lily Hu, ‘Tech Ethics: Speaking Ethics to Power, or Power
     Speaking Ethics?’ *Journal of Social Computing* 2 (3, 2021): 243.
 
-[^03Introduction_47]: J. Khadijah Abdurahman, ‘On the Moral Collapse of AI Ethics’ *Medium* blog,8 December 2020,https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-	ethics-791cbc7df872.;Karen Hao, ‘A Leading AI Ethics Researcher Says She’s Been Fired from 	Google’, *MIT Technology Review*, 3 December 2020,https://www.technologyreview.com/	2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/.
+[^03Introduction_47]: J. Khadijah Abdurahman, ‘On the Moral Collapse of AI Ethics’ *Medium* blog, 8 December 2020, https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-	ethics-791cbc7df872.Karen Hao, ‘A Leading AI Ethics Researcher Says She’s Been Fired from 	Google’, *MIT Technology Review*, 3 December 2020,https://www.technologyreview.com/	2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/.
 
 [^03Introduction_48]: Whittaker, ‘The Steep Cost of Capture’.
 
-[^03Introduction_49]: see, for example, Sara Ahmed, *On Being Included: Racism and
-    Diversity in Institutional Life*. Duke University Press, 2012; bell
+[^03Introduction_49]: See, for example, Sara Ahmed, *On Being Included: Racism and
+    Diversity in Institutional Life*, Duke University Press, 2012; bell
     hooks, *Talking Back: Thinking Feminist, Thinking Black*. 2 edition.
     Routledge, 2014; Aileen Moreton-Robinson, *Talkin’ Up to the White
     Woman: Aboriginal Women and Feminism*. Univ. of Queensland Press,
     2000.
 
-[^03Introduction_50]: see Sara Ahmed, “The Language of Diversity.” *Ethnic and Racial
+[^03Introduction_50]: See Sara Ahmed, “The Language of Diversity.” *Ethnic and Racial
     Studies* 30, no. 2 (March 2007): 235–56; Ruha Benjamin, *Race After
     Technology: Abolitionist Tools for the New Jim Code*. 1 edition.
     Cambridge, UK; Medford, MA: Polity, 2019; Carl Elliott, *White Coat,
     Black Hat: Adventures on the Dark Side of Medicine*. 1st edition.
     Beacon Press, 2010; Anna Lauren Hoffmann, “Terms of Inclusion: Data,
     Discourse, Violence.” *New Media & Society*, September 16, 2020,
-    146144482095872.
+    doi.146144482095872.
 
-[^03Introduction_51]: see Powles and Nissenbaum, ‘The Seductive Diversion of ‘Solving’
+[^03Introduction_51]: See Powles and Nissenbaum, ‘The Seductive Diversion of ‘Solving’
     Bias in Artificial Intelligence’; Ochigame, ‘The Invention of
     “Ethical AI”’; Gebru, ‘For Truly Ethical AI, Its Research Must Be
     Independent from Big Tech’; Abdurahman, ‘Fired for Speaking Out
@@ -1020,4 +1020,4 @@ Korea: ACM, 2022.
     of Chicago Press: Chicago, 2004.
 
 [^03Introduction_53]: Jake Goldenfein and Daniel Griffin, ‘Google Scholar: Platforming
-    the Scholarly Economy’, *Internet Policy Review* 11(3) (online).
+    the Scholarly Economy’, *Internet Policy Review* 11 (3, 2022) (online).

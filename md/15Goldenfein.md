@@ -93,7 +93,7 @@ participate in what seems like infinite workshops about fixing
 of the Institute at UCLA reached out to me asking me to talk about tech
 worker activism. I said, ‘Well, shouldn’t you ask Meredith Whittaker,
 because she actually was at Google organizing against Project
-Maven[^15Goldenfein_2]’—something I was involved with in solidarity as an academic
+Maven'[^15Goldenfein_2] —something I was involved with in solidarity as an academic
 doing a petition. And he said, ‘Oh yes, I already asked Meredith, and
 she actually couldn’t do it, which is why I’m asking you.’ I said, ‘Oh,
 that’s great. We’re on the same page.’ Oh, how wrong I was. After I’d
@@ -216,7 +216,7 @@ lines? Is Koch so egregious compared to everyone else that we’re taking
 this money from?
 
 KA: There’s a tension! I really liked your paper on ‘Economies of
-Virtue’[^15Goldenfein_6], in part because it raised the issue of Minderoo. I’m very
+Virtue[^15Goldenfein_6]' , in part because it raised the issue of Minderoo. I’m very
 aware that I receive Minderoo funding, though somewhat indirectly
 through AI Now. I’d never heard of Minderoo because I didn’t grow up in
 Australia. But the shit is super evil. It’s based on Aboriginal land
@@ -335,12 +335,12 @@ not easy to crack.
 
 In an essay by Dean Spade in *Social Text*,[^15Goldenfein_12] he breaks down several activism strategies. The first is marching and overt activism, but then there’s also these architectures of care which frame up a discussion of the importance of mutual aid. Much of his larger book[^15Goldenfein_13] on mutual aid is about ‘how to have a meeting,’ and how to get people to commit to doing things; like, how to use sign-up sheets. I thought this was fantastic because it’s a good prompt to revisit and think about what these networks look like if you start doing the 101.
 
-JG: Alex, I think you’ve highlighted this real tension between some the
+JG: Alex, I think you’ve highlighted this real tension between some of the
 deeply individual imperatives that are a big part of what you earlier
 called an ‘economy of prestige’—being the person that receives the kudos
 for calling out the bad corporate actor and getting the speaking
 engagements and academic kudos, etc.—and the collective imperatives of
-political organizing, which is not rewarded at all in the same way. And
+political organizing, which are not rewarded at all in the same way. And
 this inevitably has to do with how our institutional lives are
 organized.
 
@@ -415,7 +415,7 @@ that action come from?
 
 LI: I may delete all of what I’m about to say.
 
-The impetus for the FAccT letter came from one attendee getting really angry at the town hall about Christo Wilson’s paper that basically let a company, ‘pymetrics,’ define the terms of fairness auditing its own hiring algorithm.[^15Goldenfein_17] That paper was then trotted around by the company as an example of being independently audited so that local city councils and regulators would consider this algorithm ready to go. The process of working on that letter then expanded into discussion of other issues. Khadijah was involved in the beginning. Alex was also involved in those conversations.
+The impetus for the FAccT letter came from one attendee getting really angry at the town hall about Christo Wilson’s paper that basically let a company, ‘pymetrics,’ define the terms of fairness 'auditing its own' hiring algorithm.[^15Goldenfein_17] That paper was then trotted around by the company as an example of being independently audited so that local city councils and regulators would consider this algorithm ready to go. The process of working on that letter then expanded into discussion of other issues. Khadijah was involved in the beginning. Alex was also involved in those conversations.
 
 Asking FAccT to take a stand, or seeing that they won’t take a stand publicly, is a meaningful action. I’m curious what the others think about this. As with a lot of organizing, it’s learning by doing, and so there were a lot of conversations between me and Alex, me and Khadijah, and this network of people who signed the letter, and some of the people who didn’t sign it but were glad it was happening. There were conversations asking, ‘Yeah, is there a point in making a demand? Is there a point to making a demand about *this* particular thing?’ It forced us to clarify, to some extent, our analysis of what the institution was in a way that could maybe be made public.
 
@@ -455,7 +455,7 @@ of what’s at stake.
 ## References
 
 Abdurahman, J. Khadijah. ‘On the Moral Collapse of AI Ethics’ *Medium*
-blog,8 December 2020,
+blog, 8 December 2020,
 https://upfromthecracks.medium.com/on-the-moral-collapse-of-ai-ethics-791cbc7df872.
 
 ——. ‘Encoding Hindutva: Shalini Kantayya and Coded Bias’, *Medium* blog,
@@ -477,13 +477,11 @@ Stone*, 24 September 2014,https://www.rollingstone.com/politics/politics-news/in
 Harney, Stefano and Moten, Fred. *The Undercommons: Fugitive Planning &
 Black Study*, London: Minor Compositions, 2013.
 
-Meyerhff, Eli, Johnson, Elizabeth, Braun, Bruce. ‘Time and the
+Meyerhff, Eli, Johnson, Elizabeth, and Braun, Bruce. ‘Time and the
 university’, *ACME : An International E-journal for Critical
 Geographies* 10(3) (2011): 483–507.
 
-Pasquale, Frank. *New Laws of Robotics*.
-
-*Defending Human Expertise in the Age of AI*, Cambdrige. Harvard
+Pasquale, Frank. *New Laws of Robotics Defending Human Expertise in the Age of AI*, Cambdrige. Harvard
 University Press, 2020.
 
 Phan, Thao, Goldenfein, Jake Mann, Monique, and Kuch, Declan. ‘Economies
@@ -540,7 +538,7 @@ March. 2021.
     https://upfromthecracks.medium.com/encoding-hindutva-shalini-kantayya-and-coded-bias-721fe04f225f.
 
 [^15Goldenfein_10]: J. Khadijah Abdurahman, ‘A Body of Work That Cannot be Ignored’
-    *Logic: Beacons* 15 (2022)https://logicmag.io/beacons/a-body-of-work-that-cannot-be-ignored/.
+    *Logic: Beacons* 15 (2022 https://logicmag.io/beacons/a-body-of-work-that-cannot-be-ignored/.
 
 [^15Goldenfein_11]: Frank Pasquale, *New Laws of Robotics: Defending Human Expertise
     in the Age of AI*, Cambridge: Harvard University Press, 2020.

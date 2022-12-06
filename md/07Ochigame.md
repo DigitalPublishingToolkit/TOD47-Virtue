@@ -21,10 +21,10 @@ Rights: CC BY-NC 4.0
 
 ### Rodrigo Ochigame
 
-The Intercept *on 20 December 2019.*
+*This essay was originally published in The Intercept on 20 December 2019. It has been reprinted here with permission from the author.*
 
 The irony of the ethical scandal enveloping Joichi Ito, the former
-director of the MIT Media Lab, is that he used to lead academic
+director of the MIT Media Lab, is that he used to lead a cademic
 initiatives on ethics. After the revelation of his financial ties to
 Jeffrey Epstein, the financier charged with sex trafficking underage
 girls as young as 14, Ito resigned from multiple roles at MIT, a
@@ -43,7 +43,7 @@ Lab and the Berkman Klein Center for Internet & Society at Harvard
 University. What was all the talk of ‘ethics’ really about?
 
 For 14 months, I worked as a graduate student researcher in Ito’s group
-on AI ethics at the Media Lab. I stopped on 15 August, immediately after
+on AI ethics at the Media Lab. I stopped on 15 August 2019, immediately after
 Ito published his initial ‘apology’ regarding his ties to Epstein, in
 which he acknowledged accepting money from the financier both for the
 Media Lab and for Ito’s outside venture funds. Ito did not disclose that
@@ -345,7 +345,7 @@ corporate lobby.
 The field has also become relevant to the U.S. military, not only in
 official responses to moral concerns about technologies of targeted
 killing but also in disputes among Silicon Valley firms over lucrative
-military contracts. On 1 November, the Department of Defense’s
+military contracts. On 1 November 2019, the Department of Defense’s
 innovation board published its recommendations for ‘AI Ethics
 Principles.’ The board is chaired by Eric Schmidt, who was the executive
 chair of Alphabet, Google’s parent company, when Obama’s defense
@@ -370,7 +370,7 @@ the Pentagon a ‘deeply ethical organization’ and offers to extend its
 ‘existing ethics framework’ to AI. To this end, the board cites the AI
 ethics research groups at Google, Microsoft, and IBM, as well as
 academics sponsored by the MIT-Harvard fund. However, there are caveats.
-For example, the board notes that although ‘the term ‘fairness’ is often
+For example, the board notes that although ‘the term "fairness" is often
 cited in the AI community,’ the recommendations avoid this term because
 of ‘the DoD mantra that fights should not be fair, as DoD aims to create
 the conditions to maintain an unfair advantage over any potential
@@ -386,7 +386,7 @@ he informally advised Schmidt on which academic AI ethicists Schmidt’s
 private foundation should fund. Once, Ito even asked me for second-order
 advice on whether Schmidt should fund a certain professor who, like Ito,
 later served as an ‘expert consultant’ to the Pentagon’s innovation
-board. In February, Ito joined Carter at a panel titled ‘Computing for
+board. In February 2019, Ito joined Carter at a panel titled ‘Computing for
 the People: Ethics and AI,’ which also included current and former
 executives of Microsoft and Google. The panel was part of the inaugural
 celebration of MIT’s \$1 billion college dedicated to AI. Other speakers

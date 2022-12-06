@@ -19,7 +19,7 @@ Rights: CC BY-NC 4.0
 
 # Dining out on Data: Ethics, Value, and the Calculation of Risk Appetites
 
-## Tsvetelina Hristova and Liam Magee
+### Tsvetelina Hristova and Liam Magee
 
 Data ethics and AI ethics constitute an increasingly contested terrain
 where scholars, activists, state institutions, and industry actors

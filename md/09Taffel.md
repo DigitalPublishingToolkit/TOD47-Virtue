@@ -1051,7 +1051,7 @@ Robbins, Paul. ‘Is Less More…or Is More Less? Scaling the Political
 Ecologies of the Future’, *Political Geography* 76 (2020): 102018.
 
 Sadowski, Jathan. ‘When Data Is Capital: Datafication, Accumulation, and
-Extraction’, *Big Data & Society* 6.1 (2019): 2053951718820549.
+Extraction’, *Big Data & Society* 6.1 (2019): 1-12.
 
 ——. ‘The Internet of Landlords: Digital Platforms and New Mechanisms of
 Rentier Capitalism’, *Antipode* 52 (2020): 562–80.
@@ -1351,7 +1351,7 @@ Zhang, John, and Hoshino, Kazunori. *Molecular Sensors and Nanodevices*
     13.12 (2018): 124030.
 
 [^09Taffel_39]: Mél Hogan, ‘Data Flows and Water Woes: The Utah Data Center’,
-    *Big Data & Society* 2.2: (2015): 2053951715592429.
+    *Big Data & Society* 2.2: (2015): 1-12.
 
 [^09Taffel_40]: Nicole Starosielski, ‘Thermocultures of Geological Media’,
     *Cultural Politics* 12.3 (2016): 293–309.
@@ -1700,7 +1700,7 @@ Zhang, John, and Hoshino, Kazunori. *Molecular Sensors and Nanodevices*
 
 [^09Taffel_115]: Jathan Sadowski, ‘When Data Is Capital: Datafication,
     Accumulation, and Extraction’, *Big Data & Society* 6.1 (2019):
-    2053951718820549.
+    1-12.
 
 [^09Taffel_116]: Nick Couldry and Ulises A. Mejias, ‘Data Colonialism: Rethinking
     Big Data’s Relation to the Contemporary Subject’, *Television & New

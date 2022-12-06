@@ -58,13 +58,13 @@ experiences in the form of stories in which the authors, each entangled
 in this reality of industry funding in different ways, reflect on our
 experiences. We examine how our work is shaped by industry funding, how
 we negotiate our own lines in the sand regarding when or how we are paid
-pennies for our thoughts, and how these negotiations and lines evolve
+'pennies for our thoughts', and how these negotiations and lines evolve
 over time. Engaging in both individual reflection and dialogic exchange,
 we ask ourselves (and each other):
 
-What lessons can be learned from the ethnographic realities of working
+*What lessons can be learned from the ethnographic realities of working
 on AI in academic settings in which research is reliant on industry
-funding?
+funding?*
 
 Answering this question, one that confronts many researchers, will help
 us provide new insights into how corporate power plays out in the
@@ -544,7 +544,7 @@ requires us not only to make choices, but also to examine them on an
 ongoing basis. To look, in a relational fashion,[^05CathKeyes_43] at the benefits
 and harms that come from our tentative answers having time to unfold in
 practice. This reflection needs to happen in and through trusted
-relationships, or ‘critical academic friendship’,[^05CathKeyes_44]with peers,
+relationships, or ‘critical academic friendship’,[^05CathKeyes_44] with peers,
 students, and mentors. To not simply answer this question but
 *re-answer* this question, from the perspective of the collective to
 define what is needed for the collective rather than ‘what can I
@@ -623,14 +623,12 @@ Balayn, Agathe, and Gürses, Seda. ‘If AI Is the Problem, Is Debiasing
 the Solution?’, Brussels Belgium: EDRi, 2021,
 https://edri.org/our-work/if-ai-is-the-problem-is-debiasing-the-solution/.
 
-Bank, Max, Duffy, Felix, Leyendecker, Verena, and Silva, Margarida. *The
-Lobby Network: Big Tech’s Web of Influence In the EU*, Corporate Europe
+Bank, Max, Duffy, Felix, Leyendecker, Verena, and Silva, Margarida. 'The
+Lobby Network: Big Tech’s Web of Influence In the EU', Corporate Europe
 Observatory and LobbyControl e.V, 2021,
 https://corporateeurope.org/en/2021/08/lobby-network-big-techs-web-influence-eu.
 
-Bellanova, R., Irion, K., Jacobsen, K.L., Ragazzi, F., Saugmann, R., and
-Suchman, L. ‘Toward a Critique of Algorithmic Violence’, *International
-Political Sociology* 15.1 (2021): 121–50.
+Bellanova, Rocco, Kristina Irion, Katja Lindskov Jacobsen, Francesco Ragazzi, Rune Saugmann, and Lucy Suchman. ‘Toward a Critique of Algorithmic Violence.’ International Political Sociology (2021.)15 (1): 121–50. https://doi.org/10.1093/ips/olab003.
 
 Birhane, Abeba. ‘Algorithmic Injustice: A Relational Ethics Approach.’
 *Patterns* 2.2 (2021).
@@ -651,7 +649,7 @@ Communication’, *Applied communication in the 21st century* (1995):
 Dencik, Lina. ‘The Datafied Welfare State: A Perspective from the UK’,
 in Hepp, Andreas, Jarke, Juliane, and Kramp, Leif (eds), *The
 Ambivalences of Data Power: New Perspectives in Critical Data Studies*,
-UK: Palgrave Macmillan, 2022, pp. 145–66.
+UK: Palgrave Macmillan, 2022):145–66. 
 
 Ellis, Carolyn, Adams, Tony E., and Bochner, Arthur P. ‘Autoethnography:
 An Overview’, *Forum Qualitative Sozialforschung / Forum: Qualitative
@@ -737,7 +735,7 @@ Emerging Field of Technology, Ethics and Social Justice’, Weizenbaum
 Conference, Berlin, Germany, 16–17 May 2019.
 
 Sotiropoulou, Panagiota, and Cranston, Sophie. ‘Critical Friendship: An
-Alternative, ‘Care-full’ Way to Play the Academic Game’, *Gender, Place
+Alternative, ‘Care-ful’ Way to Play the Academic Game’, *Gender, Place
 & Culture* (2022): 1–22.
 
 Star, Susan Leigh. ‘This is Not a Boundary Object: Reflections on the
@@ -787,8 +785,8 @@ Whittaker, Meredith. ‘The Steep Cost of Capture’, *Interactions*, 28.6
 [^05CathKeyes_3]: Pawel Popiel, ‘The Tech Lobby: Tracing the Contours of New Media
     Elite Lobbying Power.’ *Communication Culture & Critique* 11.4
     (2018): 566–85 and Max Bank, Felix Duffy, Verena Leyendecker, and
-    Margarida Silva, *The Lobby Network: Big Tech’s Web of Influence in
-    the EU*, Corporate Europe Observatory and LobbyControl e.V, 2021,
+    Margarida Silva, 'The Lobby Network: Big Tech’s Web of Influence in
+    the EU', Corporate Europe Observatory and LobbyControl e.V, 2021,
     https://corporateeurope.org/en/2021/08/lobby-network-big-techs-web-influence-eu.
 
 [^05CathKeyes_4]: Corinne Cath, ‘Governing Artificial Intelligence: Ethical, Legal
@@ -828,15 +826,15 @@ Whittaker, Meredith. ‘The Steep Cost of Capture’, *Interactions*, 28.6
     Australia.’ *Postcolonial Studies* 20.1 (2017): 18–33.
 
 [^05CathKeyes_12]: Panagiota Sotiropoulou and Sophie Cranston, ‘Critical Friendship:
-    An Alternative, ‘Care-full’ Way to Play the Academic Game.’ *Gender,
+    An Alternative, ‘Care-ful’ Way to Play the Academic Game.’ *Gender,
     Place & Culture* (2022).
 
 [^05CathKeyes_13]: Thao Phan, et al., ‘Economies of Virtue: The Circulation of
     “Ethics” in Big Tech’, *Science as Culture* (2021): 121–35.
 
 [^05CathKeyes_14]: Frank Pasquale, ‘Machines Judging Humans: The Promise and Perils
-    of Formalizing Evaluative Criteria’, in Proceedings of the AAAI/ACM
-    Conference on AI, Ethics, and Society, New York, 7–8 February 2020.
+    of Formalizing Evaluative Criteria’, in *Proceedings of the AAAI/ACM
+    Conference on AI, Ethics, and Society*, New York, 7–8 February 2020.
 
 [^05CathKeyes_15]: Clare Hemmings, *Why Stories Matter*, Durham: Duke University
     Press, 2011.
@@ -918,10 +916,7 @@ Whittaker, Meredith. ‘The Steep Cost of Capture’, *Interactions*, 28.6
     Rethinking Applied Communication,’ *Applied Communication In the
     21st Century*, London: Routledge, 1995.
 
-[^05CathKeyes_35]: R. Bellanova, K. Irion, K. L. Jacobsen, F. Ragazzi, R. Saugmann,
-    and L. Suchman, ‘Toward a Critique of Algorithmic Violence’,
-    *International Political Sociology* 15.1 (2021): 121–50.
-
+[^05CathKeyes_35]: Bellanova, Rocco, Kristina Irion, Katja Lindskov Jacobsen, Francesco Ragazzi, Rune Saugmann, and Lucy Suchman. ‘Toward a Critique of Algorithmic Violence.’ International Political Sociology (2021.)15 (1): 121–50. https://doi.org/10.1093/ips/olab003.
 [^05CathKeyes_36]: Sotiropoulou and Cranston, ‘Critical Friendship’.
 
 [^05CathKeyes_37]: Alexis Shotwell, *Against Purity: Living Ethically in Compromised

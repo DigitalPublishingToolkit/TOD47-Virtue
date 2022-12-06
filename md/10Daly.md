@@ -23,7 +23,7 @@ Rights: CC BY-NC 4.0
 
 ## Introduction
 
-Prominent discussions on AI ethics frameworks and other initiatives,
+Prominent discussions on AI ethics frameworks and other initiatives
 take place at the international or national level, and especially those
 from the human rights approach may claim a universal or global
 application and significance.[^10Daly_1] Outside of prominent countries such as
@@ -119,7 +119,7 @@ of AI, in the form of facial recognition cameras and software,
 especially when used by law enforcement. This is a concrete example of
 localized engagements with AI and the formation of resistance which have
 led to forms of localized governance of AI in some places including the
-UK. Despite the lofty ideals and potential for large scale impact that
+U.K. Despite the lofty ideals and potential for large scale impact that
 more global initiatives on AI ethics and governance promise, and despite
 a more global approach probably being more appropriate for a globalized,
 transnational technology such as AI and applications including facial
@@ -135,9 +135,9 @@ In any event, these everyday encounters are impactful in other ways when
 individuals and communities negotiate and contest certain AI uses in
 ways that may lead to change as policymakers and the law may respond to
 their wishes. This is clearly impactful in localities where it takes
-place but lacks acknowledgement and claims, whether implicit or
+place but lacks acknowledgement and may constrast with claims, whether implicit or
 explicit, to universality that conventional high-level AI ethics
-initiatives contain, and which is incentivized by impact in academic
+initiatives contain, which is incentivized by impact in academic
 research.[^10Daly_18] In the case of facial recognition at least, and perhaps
 more broadly, more AI ‘ethical’ attention given to this application in
 its local and everyday encounters can highlight or serve forms of
@@ -250,8 +250,8 @@ significant since it is the first global standard on the topic, however
 it is not binding on signatory states, and it is merely ‘recommended’
 that member states implement it on a ‘voluntary basis’ in their
 respective domestic jurisdictions.[^10Daly_30] Much attention so far has been
-paid to efforts in the European Union (EU) to formulate its own
-legislation on AI, the EU AI Act, which is currently under discussion at
+paid to efforts in the European Union (E.U.) to formulate its own
+legislation on AI, the E.U. AI Act, which is currently under discussion at
 the time of writing,[^10Daly_31] and is notable as the first major attempt by a
 leading global jurisdiction to regulate AI in a binding way, albeit one
 as it currently stands that will not outlaw completely law enforcement
@@ -381,7 +381,7 @@ the general public. Facial recognition has been an object for social
 movement mobilizations, either specifically against the use of this
 surveillance technology, or as part of broader protests. Facial
 recognition has also seen the mobilisation of everyday law against it,
-and led to questions for how state law addresses it.
+and led to questions as to how state law addresses it.
 
 Facial recognition and CCTV cameras have been the site of protest and
 actual destruction in various locations globally. During protests in
@@ -402,7 +402,7 @@ of protestors against the extradition bill and national security law in
 Hong Kong, where a ‘lack of trust in technology persists’.[^10Daly_50] Not only
 did were ‘face masks, umbrellas and lasers … routinely used by
 demonstrators to blind CCTV cameras … thereby render\[ing\] facial
-recognition ineffective’,[^10Daly_51] protestors: 'also took down new ‘smart’ lampposts, where their full technological capabilities have not been disclosed, installed by the Government during a protest against surveillance and increasing prevalence of facial recognition technologies.[^10Daly_52]
+recognition ineffective’,[^10Daly_51] protestors 'also took down new "smart" lampposts, where their full technological capabilities have not been disclosed, installed by the Government during a protest against surveillance and increasing prevalence of facial recognition technologies.[^10Daly_52]
 
 Protestors not only took down the lampposts but also ‘dissected’ them by
 opening up their ‘black boxes’ to see exactly what components and
@@ -431,12 +431,12 @@ and also demonstrates government responsiveness to citizen concerns in
 the general context of top-down smart city initiatives such as that of
 Hong Kong.[^10Daly_55]
 
-## Facial Recognition, Everyday AI Law and Ethics in the UK
+## Facial Recognition, Everyday AI Law and Ethics in the U.K.
 
 Facial recognition as everyday AI, and contestations around it, have
 been prominent in the U.K., and mobilization against facial recognition
 has resulted in litigation and policy change, and divergence between the
-approach in different parts of the U.K. Live facial recognition
+approaches in different parts of the U.K. Live facial recognition
 technology has been used in different parts of the U.K. to police public
 places, to mounting levels of controversy and legal challenge. For these
 reasons, I consider it an interesting case study of everyday AI ethics
@@ -498,7 +498,7 @@ the use of live facial recognition technology by police in Scotland.
 
 This contrasts with the approach taken in England and Wales - which are
 the same jurisdiction, Scotland and Northern Ireland each being the
-other two jurisdictions which make up the UK. According to Big Brother
+other two jurisdictions which make up the U.K. According to Big Brother
 Watch:
 
 > Police forces in the UK have rolled out automatic facial recognition
@@ -577,7 +577,7 @@ In light of the above, with live facial recognition use by police in
 Scotland effectively banned, yet permitted with some limitations in
 England and Wales, there is a ‘North–South Divide’ as Lynch has termed
 it, regarding police use of live facial recognition as an everyday AI
-application in public places in the UK:
+application in public places in the U.K.:
 
 > If you find yourself walking in some parts of London or Wales, for
 > example, live facial recognition technology will now be able to scan
@@ -603,7 +603,7 @@ a \#StopCoopSpying social media campaign.[^10Daly_78] At the time of writing,
 the Co-op is the subject of a complaint to the ICO by Big Brother Watch
 and digital rights agency AWO.[^10Daly_79]
 
-Everyday encounters and contestations of facial recognition in the UK
+Everyday encounters and contestations of facial recognition in the U.K.
 demonstrate how the public meets AI in the form of facial recognition in
 their quotidian lives, through police deployment in public places, to
 its use in schools and supermarkets. The most successful influencing of
@@ -630,15 +630,15 @@ global capital, in the cases of laws and policies developed in
 California in the U.S., and increasingly the effect of European Union
 law and policy more globally, with the ‘Brussels effect’ of its
 governance mechanisms influencing law and policy elsewhere due to the
-EU’s status as the world’s largest trading bloc and its active stance in
+E.U.’s status as the world’s largest trading bloc and its active stance in
 developing and circulating its law and regulation beyond its
-borders.[^10Daly_81] This may also be the case for the EU’s proposed AI Act,
+borders.[^10Daly_81] This may also be the case for the E.U.’s proposed AI Act,
 which may follow the GDPR in forming a de facto global norm,[^10Daly_82] and
 one which at the moment, as mentioned above, will not prohibit outright
 the use of facial recognition, even by law enforcement.
 
 Yet, the Scottish example shows how other forms of norm circulation are
-possible which are not in the service of global capital and power where
+possible which are not in the service of global capital and power with
 the local prohibitions on police facial recognition use in other parts
 of the world being referenced by the Scottish Parliament Justice
 Sub-Committee in its call for a moratorium on police use of live facial
@@ -651,7 +651,7 @@ protests, and legal mobilizations in other geographical contexts.
 At a ‘high level’, the U.K. has set out its public research funding
 approach to AI and its policy intentions as regards a ‘light touch’
 non-binding governance of AI, including facial recognition. This
-demonstrates a further cleavage with the EU’s intention to regulate AI.
+demonstrates a further cleavage with the E.U.’s intention to regulate AI.
 It can be seen as part of the U.K.’s post-Brexit trajectory, which also
 involves a distancing from the E.U.’s data protection regime, and
 accords with Ossewaarde and Gulenc’s aforementioned observations of the
@@ -680,7 +680,7 @@ capital, especially Big Tech firms, to influence these administrations
 in ways favorable to their interests. Such conditions present
 possibilities for localized negotiation and resistance to AI and which
 have been realized to some degree in reining in facial recognition, and
-which can be juxtaposed to the laissez-faire ‘pro-innovation’ approach
+which can be juxtaposed with the laissez-faire ‘pro-innovation’ approach
 of the U.K. government to AI.
 
 ## Conclusion

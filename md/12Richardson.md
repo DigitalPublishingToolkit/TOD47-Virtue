@@ -187,7 +187,8 @@ of government initiatives, targeted investment strategies, academic
 research funding programs, and knowledge transfer hubs. Together, these
 aim to hothouse military technology start-ups by echoing the
 public–private partnerships so beloved by neoliberal infrastructure
-builders. To show how military ethics functions within economies of
+builders. 
+To show how military ethics functions within economies of
 virtue, this essay argues that three critical dynamics around ‘ethics’
 are shaping the emerging military technology industry in Australia and
 its relation to academia. I begin by examining how ethics function as a

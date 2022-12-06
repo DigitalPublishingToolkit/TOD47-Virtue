@@ -40,7 +40,7 @@ Avoid Regulation** *[Reprint]*</a>
 
 ### Section II: Sites
 
- <a href='ch009.xhtml'>**Ecocide isn’t Ethical: Political Ecology and Capitalist AI Ethics**</a>
+ <a href='ch009.xhtml'>**Ecocide Isn’t Ethical: Political Ecology and Capitalist AI Ethics**</a>
 <br/> Sy Taffel, Laura Bedford and Monique Mann
 
  <a href='ch010.xhtml'>**Everyday AI Ethics: From the Global to Local Through Facial Recognition**</a>
@@ -56,21 +56,21 @@ Avoid Regulation** *[Reprint]*</a>
 
 ### Section III: Action
 
- <a href='ch014.xhtml'>**‘Open Secrets’: An interview with Meredith Whittaker**</a>
+ <a href='ch014.xhtml'>**‘Open Secrets’: An Interview with Meredith Whittaker**</a>
 <br/> Interviewed by Jathan Sadowski and Thao Phan
 
- <a href='ch015.xhtml'>**‘Dropouts’: An Interview with Lilu Irani, J. Khadijah Abdurahman and
+ <a href='ch015.xhtml'>**‘Dropouts’: An Interview with Lily Irani, J. Khadijah Abdurahman and
 Alex Hanna**</a>
 <br/> Interviewed by Jake Goldenfein
 
 
 <br/> 
- <a href='ch016.xhtml'>**Aknowledgements**</a>
+ <a href='ch016.xhtml'>**Acknowledgements**</a>
 <br/>
 
 
 
- <a href='ch017.xhtml'>**About the authors**</a>
+ <a href='ch017.xhtml'>**Contributor Biographies**</a>
 <br/>
 
 <br/> 
