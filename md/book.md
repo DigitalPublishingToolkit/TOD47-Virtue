@@ -4,7 +4,7 @@
 
 ## THE CIRCULATION OF 'ETHICS' IN AI
 
-
+<div style="page-break-after: always"></div>
 
 
 INC Theory on Demand \#46
