@@ -31,9 +31,9 @@ Design and EPUB development: Jasmin Leech
 
 Published by the Institute of Network Cultures, Amsterdam 2022
 
-ISBN print:
+ISBN print: 9789492302960
 
-ISBN EPUB:
+ISBN EPUB: 9789492302977
 
 Institute of Network Cultures
 

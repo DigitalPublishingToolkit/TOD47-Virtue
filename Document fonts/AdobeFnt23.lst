@@ -4,9 +4,9 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/jasminleech/Downloads/TOD#46 cover DEF5 map 2/Document fonts/AdobeFnt23.lst
-FileLength:3873
-FileModTime:689504193
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD46-Virtue/Document fonts/AdobeFnt23.lst
+FileLength:3257
+FileModTime:692543950
 %EndFont
 
 %BeginFont
@@ -22,7 +22,7 @@ WidthClass:5
 AngleClass:0
 FullName:12 pt. Helvetica* 75 Bold   07472
 WritingScript:Roman
-OutlineFileName:/Users/jasminleech/Downloads/TOD#46 cover DEF5 map 2/Document fonts/HelveNeuBol
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD46-Virtue/Document fonts/HelveNeuBol
 DataFormat:POSTResource
 UsesStandardEncoding:yes
 isCFF:no
@@ -45,7 +45,7 @@ WidthClass:5
 AngleClass:0
 FullName:12 pt. Helvetica* 45 Light   02472
 WritingScript:Roman
-OutlineFileName:/Users/jasminleech/Downloads/TOD#46 cover DEF5 map 2/Document fonts/HelveNeuLig
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD46-Virtue/Document fonts/HelveNeuLig
 DataFormat:POSTResource
 UsesStandardEncoding:yes
 isCFF:no
@@ -68,7 +68,7 @@ WidthClass:5
 AngleClass:1
 FullName:12 pt. Helvetica* 46 Light Italic   11472
 WritingScript:Roman
-OutlineFileName:/Users/jasminleech/Downloads/TOD#46 cover DEF5 map 2/Document fonts/HelveNeuLigIta
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD46-Virtue/Document fonts/HelveNeuLigIta
 DataFormat:POSTResource
 UsesStandardEncoding:yes
 isCFF:no
@@ -82,7 +82,7 @@ DesignSize:-1
 Handler:DirectoryHandler
 FontType:Suitcase
 FontName:HelveticaNeue-LightExt
-OutlineFileName:/Users/jasminleech/Downloads/TOD#46 cover DEF5 map 2/Document fonts/HelveticaNeue
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD46-Virtue/Document fonts/HelveticaNeue
 ResourceID:5773
 MacStyle:0
 FileLength:476369
@@ -102,7 +102,7 @@ WidthClass:5
 AngleClass:0
 FullName:Trade Gothic Bold No. 2
 WritingScript:Roman
-OutlineFileName:/Users/jasminleech/Downloads/TOD#46 cover DEF5 map 2/Document fonts/TradeGotBolTwo
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD46-Virtue/Document fonts/TradeGotBolTwo
 DataFormat:POSTResource
 UsesStandardEncoding:yes
 isCFF:no
@@ -125,7 +125,7 @@ WidthClass:5
 AngleClass:0
 FullName:Trade Gothic Light
 WritingScript:Roman
-OutlineFileName:/Users/jasminleech/Downloads/TOD#46 cover DEF5 map 2/Document fonts/TradeGotLig
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD46-Virtue/Document fonts/TradeGotLig
 DataFormat:POSTResource
 UsesStandardEncoding:yes
 isCFF:no
@@ -139,7 +139,7 @@ DesignSize:-1
 Handler:DirectoryHandler
 FontType:Suitcase
 FontName:TradeGothic-BoldCondTwentyObl
-OutlineFileName:/Users/jasminleech/Downloads/TOD#46 cover DEF5 map 2/Document fonts/TradeGothic
+OutlineFileName:/Users/jasminleech/Documents/GitHub/TOD46-Virtue/Document fonts/TradeGothic
 ResourceID:13162
 MacStyle:0
 FileLength:306083
